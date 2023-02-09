@@ -8,6 +8,10 @@ Cryptography used for  **digital signatures**  is not covered by this survey. Fo
 
 **See also**  (but largely outdated): Stewart Baker & Paul Hurst,  _The Limits of Trust_ from August 1998 and the extensive survey by EPIC and GILC,  [Cryptography and Liberty 2000](http://epic.org/bookstore/crypto00&/)  (earlier version:  [1998](http://www.gilc.org/crypto/crypto-survey.html)). And see generally on export controls Simo-Pekka Parviainen's  [thesis](http://ethesis.helsinki.fi/julkaisut/oik/julki/pg/parviainen/)  (particularly on the EU).
 
+## Participate
+
+Please join the Export Control mailing list and the Slack workspace of the [OpenChain](https://www.openchainproject.org/) project from the [participation page](https://www.openchainproject.org/participate)... and the corresponding Channel in our Slack workspace.
+
 ## Disclaimer
 
 This survey of cryptography laws is based on several reports, information from the Internet and personal communications. We have not consulted all original texts of relevant regulations; in many cases, we have relied on the sources listed. These findings, therefore, do not pretend to be exhaustive or legally reliable.
