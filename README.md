@@ -2,7 +2,7 @@ This is a survey of existing and proposed laws and regulations on cryptography -
 
 [](http://www.britannica.com/)
 
-This survey gives an overview of the current state of affairs, with entries per country on import/export controls, domestic laws, developments to restrict cryptography, and developments favoring crypto use. For more  **background**  on the crypto policy dilemma, see my Ph.D. thesis _The Crypto Controversy. A Key Conflict in the Information Society_  (Kluwer Law International, 1999).
+This survey will give an overview of the current state of affairs, with entries per country on import/export controls, domestic laws, developments to restrict cryptography, and developments favoring crypto use. For more  **background**  on the crypto policy dilemma, see Bert-Jaap's Ph.D. thesis _The Crypto Controversy. A Key Conflict in the Information Society_  (Kluwer Law International, 1999).
 
 Cryptography used for  **digital signatures**  is not covered by this survey. For regulation of digital signatures, see  [Digital Signatures and Law](http://en.wikipedia.org/wiki/Digital_signatures_and_law).
 
@@ -10,7 +10,7 @@ Cryptography used for  **digital signatures**  is not covered by this survey. Fo
 
 ## Disclaimer
 
-This survey of cryptography laws is based on several reports, information from the Internet and personal communications. I have not consulted all original texts of relevant regulations; in many cases, I have relied on the sources listed. These findings, therefore, do not pretend to be exhaustive or legally reliable.
+This survey of cryptography laws is based on several reports, information from the Internet and personal communications. We have not consulted all original texts of relevant regulations; in many cases, we have relied on the sources listed. These findings, therefore, do not pretend to be exhaustive or legally reliable.
 
 ## Credits
 
