@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Norway]{#no} \[[Sources](cls-srce.htm) 1, 5, 6, 8\]
+# [Norway]{#no} \[[Sources](cls-srce.htm) 1, 5, 6, 8\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 Norway has signed the [Wassenaar](#Wassenaar) Arrangement, including the
 (pre-December 1998) General Software Note. Export is regulated by the
 Strategic Goods Export Control Act of 18 December 1987, nr. 93 ([Lov om
@@ -28,10 +28,10 @@ is available in Norwegian.
 There are no import controls. The 2001 policy document (see below, at 3)
 states that import of cryptography will remain free.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 None.
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 In August 2001, the Norwegian government released their Norwegian Crypto
 Policy ([Norsk
 kryptopolitikk](http://odin.dep.no/nhd/norsk/enorge/p10001878/024101-990058/index-dok000-b-n-a.html),

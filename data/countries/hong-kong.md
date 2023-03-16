@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Hong Kong]{#hk} Special Administrative Region \[[Source](cls-srce.htm) 5\]
+# [Hong Kong]{#hk} Special Administrative Region \[[Source](cls-srce.htm) 5\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 Import, export, and transit of cryptography are regulated by the Import
 and Export (Strategic Commodities) Regulations, which closely follow the
 [Wassenaar](#Wassenaar) controls. Generally, a license is required from
@@ -22,13 +22,13 @@ administrative sanctions. For more information, see the Strategic Trade
 Controls Circular No. 12/04 on [Import and Export of Encryption
 Products](http://www.stc.tid.gov.hk/english/circular_pub/stc12_04.html). 
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 There are no regulations on the use of encryption. Crypto products that
 are to be connected to the public telecoms network, however, must comply
 with the relevant Telecommunications Authority\'s network connection
 specifications.
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 The September 2000 [Report](http://www.info.gov.hk/sb/cr-rpt/report.htm)
 of the Inter-departmental Working Group on Computer Related Crime
 investigated the problem of cryptography for law enforcement. Ch. 5

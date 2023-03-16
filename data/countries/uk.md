@@ -7,10 +7,10 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [United Kingdom]{#uk} \[[Sources](cls-srce.htm) 1, 3, 4, 5, 8\]
+# [United Kingdom]{#uk} \[[Sources](cls-srce.htm) 1, 3, 4, 5, 8\]
 
-[**1. Export/ import controls**\
-Export is controlled in accordance with the EU]{#uk_Export} [dual-use
+## 1. Export/ import controls  
+Export is controlled in accordance with the EU{#uk_Export} [dual-use
 regulation](#eu_exp) and the [Wassenaar](#Wassenaar) Arrangement in *The
 Dual-Use Items (Export Control) Regulations 2000* ([SI
 2000/2620](http://www.hmso.gov.uk/si/si2000/20002620.htm)), amended
@@ -68,10 +68,10 @@ should fall under the export controls.
 See also section 5.5 of Simo-Pekka Parviainen\'s
 [thesis](http://ethesis.helsinki.fi/julkaisut/oik/julki/pg/parviainen/).
 
-**2. Domestic laws and regulations**
+## 2. Domestic laws and regulations  
 
-**Regulation of Investigatory Powers Act 2000**[\
-On 28 July 2000]{#uk_ripa}, the [Regulation of Investigatory Powers Act
+### Regulation of Investigatory Powers Act 2000  
+On 28 July 2000{#uk_ripa}, the [Regulation of Investigatory Powers Act
 2000](http://www.legislation.hmso.gov.uk/acts/acts2000/20000023.htm)
 (2000 Chapter 23) received Royal Assent. Part III of the RIPA contains a
 power to order disclosure in cases of encrypted data. Part III entered
@@ -205,8 +205,8 @@ Information Policy Research. Cf. a BBC
 [story](http://news.bbc.co.uk/2/hi/technology/7102180.stm) on a November
 2007 application of the decryption order.  
 
-**Electronic Communications Act 2000**[\
-Section 14]{#uk_eca2000} of the [Electronic Communications Act
+### Electronic Communications Act 2000  
+Section 14{#uk_eca2000} of the [Electronic Communications Act
 2000](http://www.legislation.hmso.gov.uk/acts/acts2000/20000007.htm)
 (2000 Chapter c.7), which received Royal Assent on 25 May 2000, is
 entitled \"prohibition of key escrow requirements\". It determines that
@@ -224,9 +224,9 @@ Chapter c.7, part I, but these never entered into force and were
 consequently repealed on 25 May 2005 due to the sunset clause of art.
 16(4) of Chapter c.7. []{#99ecbill}
 
-**History**
+### History  
 
-**1999 Electronic Communications Bill**\
+### 1999 Electronic Communications Bill  
 On 23 July 1999, the government published a [draft Electronic
 Communications Bill](http://www.dti.gov.uk/cii/elec/ecbill_1.html),
 together with a new consultation document \"[Promoting Electronic
@@ -301,9 +301,9 @@ keep secret.
 
 []{#uk_restrict}
 
-**3. Developments in cryptography regulation**
+## 3. Developments in cryptography regulation  
 
-**DTI 1996 paper**\
+### DTI 1996 paper  
 In June 1996, DTI announced a crypto policy in the [Paper on regulatory
 intent concerning use of encryption on public
 networks](http://www.coi.gov.uk/coi/depts/GTI/coi9303b.ok). According to
@@ -334,7 +334,7 @@ under a judicial warrant. The TTP\'s would probably need licenses to be
 able to provide digital signature services. It was realized that
 numerous questions, such as liability, remained yet unresolved.
 
-**Red Pike**\
+### Red Pike  
 A preview of the proposed key escrow legislation was also found in the
 proposal for the National Health Service to adopt a crypto system, Red
 Pike, with a key recovery scheme. The 1996 (?) booklet \'The use of
@@ -443,8 +443,8 @@ See also the general outline of British policy up to this point in
 chapter 6 of Bowden & Akdeniz\' article [Cryptography and Democracy:
 Dilemmas of Freedom](http://www.fipr.org/publications/cryptfree.pdf).
 
-**1998 policy** **announcement\
-**On 19 February 1998, a new policy announcement was expected to be made
+### 1998 policy announcement  
+On 19 February 1998, a new policy announcement was expected to be made
 at the London ICX conference to follow up the DTI paper and the
 responses to it. It was expected to be largely similar to the DTI paper,
 but to refrain from linking certification of digital signature keys to
@@ -485,7 +485,7 @@ licensing authority for cryptographic services. The policy would be
 effected in an Electronic Commerce Bill \"as soon as parliamentary time
 permits\".
 
-**1999 consultation document**\
+### 1999 consultation document  
 The [consultation
 document](http://www.dti.gov.uk/CII/elec/elec_com.html) \"Building
 Confidence in Electronic Commerce\" was published on 5 March 1999. It
@@ -528,7 +528,7 @@ Industry Select Committee published a
 on 18 May 1999, stating, among others, their disappointment \"that the
 Government should still hold a candle for key escrow and key recovery.\"
 
-**1999-2000 EC and RIP Bills, RIPA 2000**\
+### 1999-2000 EC and RIP Bills, RIPA 2000  
 For the subsequent legislative history of the decryption power in the
 RIPA 2000, see under 2.
 

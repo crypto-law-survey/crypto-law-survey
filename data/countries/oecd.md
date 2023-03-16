@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [OECD (Organisation for Economic Co-operation and Development)]{#oecd} \[[Source](cls-srce.htm) 5\]
+# [OECD (Organisation for Economic Co-operation and Development)]{#oecd} \[[Source](cls-srce.htm) 5\]
 
-**3. Developmentsin cryptography regulation**\
+## 3. Developmentsin cryptography regulation  
 The OECD released its [Recommendation of the Council concerning
 Guidelines for Cryptography
 Policy](http://www.oecd.org/dsti/sti/it/secur/prod/e-crypto.htm) on 27

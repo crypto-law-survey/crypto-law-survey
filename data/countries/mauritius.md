@@ -7,13 +7,13 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Mauritius]{#mau} \[[Sources](cls-srce.htm) 5\]
+# [Mauritius]{#mau} \[[Sources](cls-srce.htm) 5\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 There are no export or import controls. \[Source: [2002 ITU
 document](http://www.itu.int/ITU-D/e-strategy/Seminars/CapeVerde/AfricaLegalFramework1.pdf)\]
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 There are no domestic restrictions on cryptography for civilian use.
 \[Source: [2002 ITU
 document](http://www.itu.int/ITU-D/e-strategy/Seminars/CapeVerde/AfricaLegalFramework1.pdf)\]

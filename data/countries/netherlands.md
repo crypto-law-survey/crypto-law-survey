@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [The Netherlands]{#nl} \[[Sources](cls-srce.htm) 3, 4, 5, 7\]
+# [The Netherlands]{#nl} \[[Sources](cls-srce.htm) 3, 4, 5, 7\]
 
-[**1. Export/ import controls**]{#nl_imp}\
+## 1. Export/ import controls  
 [Wassenaar](#co) rules, including the (pre-December 1998) General
 Software Note. (The regulation was to be adapted according to the
 December 1998 Wassenaar changes before April 1999.) The applicable
@@ -30,7 +30,7 @@ information, see the Ministry\'s general [export
 controls](http://www.rijksoverheid.nl/onderwerpen/exportcontrole-strategische-goederen)
 page. 
 
-[**2. Domestic laws and regulations**]{#nl_dom}\
+## 2. Domestic laws and regulations  
 [*Decryption command (law enforcement)*\
 If encrypted information is found in a computer during a house
 search,]{#nl_decr} the police can order anyone who can reasonably be
@@ -103,7 +103,7 @@ intelligence and security service are granted the power to disable
 encryption of data, telecommunications, or data transfers (article 25,
 section 1, article 26, section 1, and article 27, section 1).
 
-**3. Developments in cryptography regulation**
+## 3. Developments in cryptography regulation  
 
 [**1994 pre-draft law**]{#nl_1994}\
 In March 1994, a Dutch predraft law on cryptography leaked out, the
@@ -136,8 +136,7 @@ think primarily of legislation, in the long run, use of non-escrowed
 encryption could give rise to (criminal) suspicion by law-enforcement,
 thus effectively mandating escrowed encryption.
 
-**Extension of d**[**ecryption command (law
-enforcement**]{#nl_dec_inv}**)**\
+### Extension of decryption command (law enforcement)  
 Initially, the draft Computer Crime Act II (version of January 1998)
 also proposed to extend the power of the police to demand decryption to
 be given to suspects, in case of grave evidence against the suspect and
@@ -223,7 +222,7 @@ with representatives of government and industry, which performs several
 pilot projects. See for information in Dutch
 [ECP.NL](http://www.ecp.nl/trust/ttp.htm).
 
-**Policy statements emphasising the importance of cryptography**
+### Policy statements emphasising the importance of cryptography  
 
 The government\'s policy document \"Legislation for the electronic
 highway\", of 12 February 1998 (TK 25 880), affirms that one of the

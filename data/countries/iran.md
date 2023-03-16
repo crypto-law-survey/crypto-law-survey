@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Iran]{#iran} \[[Source](cls-srce.htm) 5\]
+# [Iran]{#iran} \[[Source](cls-srce.htm) 5\]
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 According to the 2005 HRW report [False
 Freedom](http://hrw.org/reports/2005/mena1105/), use of encryption for
 exchanging information requires a license. Users have to request

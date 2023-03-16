@@ -7,12 +7,12 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Malaysia]{#mal} \[[Source](cls-srce.htm) 5\]
+# [Malaysia]{#mal} \[[Source](cls-srce.htm) 5\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 There are no export or import restrictions.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 There is no regulation of crypto use.
 
 Three Acts contain a power to require people to decrypt *during a

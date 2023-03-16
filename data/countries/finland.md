@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Finland]{#fi} \[[Sources](cls-srce.htm) 4, 5, 8\]
+# [Finland]{#fi} \[[Sources](cls-srce.htm) 4, 5, 8\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 Import of cryptography is not regulated.
 
 For export, a license is required through the *Export Control of
@@ -38,7 +38,7 @@ will not unreasonably impede normal foreign trade.
 See also section 5.1 of Simo-Pekka Parviainen\'s
 [thesis](http://ethesis.helsinki.fi/julkaisut/oik/julki/pg/parviainen/).
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 The Privacy and Data Security in Telecommunications Act of June 1999
 (no. 565-1999) allow telecoms users and subscribers \"right to code
 their telecommunications message in the way they wish utilising the
@@ -49,7 +49,7 @@ sections 5 and 6 of the
 (also available in
 [Finnish](http://finlex.edita.fi/cgi-bin/kortti/19990565000+Hakulause=19990565000%22){??=""}).
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation   
 At the [OECD meeting](#oecd) of December 1995, Finland did not approve
 key escrow proposals. The chairman of the Finnish public
 administration\'s group for data security affirmed that Finland will not

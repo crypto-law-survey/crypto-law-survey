@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Canada]{#ca} \[[Sources](cls-srce.htm) 1, 3, 4, 5, 8\]
+# [Canada]{#ca} \[[Sources](cls-srce.htm) 1, 3, 4, 5, 8\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 Canada follows (pre-December 1998) [Wassenaar](#co) regulations. The
 export of items from Canada may be subject to restriction if they are
 included on the Export Control List. In December 1996, Canada granted
@@ -62,10 +62,10 @@ software](http://insight.mcmaster.ca/org/efc/pages/doc/crypto-export.html).
 Cf. also Baker and Hintze\'s [comparison of US and Canada export
 controls](http://www.steptoe.com/encryp.htm).
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 There are no domestic regulations on cryptography.
 
-**Case-law**\
+### Case-law  
 In R. v. Meron, \[2004\] P.E.I.J. No. 95, the accused was asked to
 provide passwords for encrypted hard drives, but he refused to
 cooperate. The case gives no further details about the context or
@@ -83,7 +83,7 @@ acts from being committed or facilitated when handing over the data.
 Hence, the application for disclosure of a copy of the encrypted files
 in the seized hard drives was refused.
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 A discussion paper by the Task Force on Electronic Commerce, from
 February 1998, [A Cryptography Policy Framework for Electronic
 Commerce](http://e-com.ic.gc.ca/english/crypto/631d11.html), invited

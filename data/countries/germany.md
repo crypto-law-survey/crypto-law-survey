@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Germany]{#ge} \[[Sources](cls-srce.htm) 1, 3, 4, 5, 7\]
+# [Germany]{#ge} \[[Sources](cls-srce.htm) 1, 3, 4, 5, 7\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 Export is regulated according to the [EU regulation](#eu_exp) and the
 [Wassenaar Arrangement](#co), in the regulations as amended according to
 the *General License Nr. 16* (pdf
@@ -35,7 +35,7 @@ See also section 5.3 of Simo-Pekka Parviainen\'s
 A good article by Stefan Schuppert on Germany\'s export regulations (in
 German) appeared in *Computer und Recht* 2001/7, p. 429-434.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 The Amateur Radio Ordinance ([Verordnung zum Gesetz ueber den
 Amateurfunk](http://www.bundesrecht.juris.de/bundesrecht/afuv_2005/gesamt.pdf))
 of 15 February 2005, BGBl. 2005, 242, prohibits encryption of amateur
@@ -46,7 +46,7 @@ communications (in the 1982 Order for the Radio Service Implementing the
 International Teleommunications Treaty) and since 1998 also for domestic
 communications. 
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 On 2 June 1999, the German government announced its \"Corner points of
 the German crypto policy\" ([Eckpunkte der deutschen
 Kryptopolitik](http://www.bmwi.de/presse/1999/0602prm1.html)). There are
@@ -68,7 +68,7 @@ five cornerstones.
     crypto policy. It will advocate market-driven, open standards and
     interoperable systems.
 
-**History of the discussions about crypto regualation**\
+### History of the discussions about crypto regualation  
 Several politicians have expressed a desire to regulate cryptography.
 There have been many conflicting rumours on the likelihood of a crypto
 regulation. Interior Minister Kanther stated on 22 July 1997 that

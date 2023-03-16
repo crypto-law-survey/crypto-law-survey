@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Singapore]{#si} \[[Source](cls-srce.htm) 5, 10\]
+# [Singapore]{#si} \[[Source](cls-srce.htm) 5, 10\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 Export is covered by [Wassenaar](#Wassenaar) controls. See the
 [Strategic Goods (Control)
 Act](http://www.stgc.gov.sg/stgc/index.jsp?url=/html/4_Legislation.html&artName=78&catName=46),
@@ -23,7 +23,7 @@ website. 
 Formerly, there were import restrictions (requiring a license from the
 Trade Development Board), but these were abolished on 21 January 2000.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 There are no domestic controls on crypto use, but according to the
 Singapore Trade Development Board, \"hardware equipment that will be
 connected directly to the telecommunications infrastructure will require
@@ -69,7 +69,7 @@ kidnapping or \"any written law which provides for any offence involving
 the causing of death or bodily harm\" (if the maximum of that offence is
 at least 5 years\' imprisonment).
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 The Infocomm Development Authority of Singapore [press
 release](http://www.ida.gov.sg/Website/IDAContent.nsf/dd1521f1e79ecf3bc825682f0045a340/b862cb2072335c19c825686b003b85a9?OpenDocument)
 of 19 January 2000 that announced the lifting of import controls,

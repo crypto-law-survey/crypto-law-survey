@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Ireland]{#ir} \[[Sources](cls-srce.htm) 1, 9\]
+# [Ireland]{#ir} \[[Sources](cls-srce.htm) 1, 9\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 Import is not controlled.
 
 Export is regulated according to the [EU](#eu_exp) dual-goods regulation
@@ -23,7 +23,7 @@ Ireland\'s Policy on Cryptography and Electronic Signatures* of June
 The responsible agency is The Licensing Unit of the Department of
 Enterprise, Trade and Employment (see [address](cls-addr.htm)).
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 The [Electronic Commerce Act
 2000](http://www.irishstatutebook.ie/2000/en/act/pub/0027/print.html)
 (nr. 27), which was enacted on 19 July 2000, contains a decryption order
@@ -49,7 +49,7 @@ power can only be used in relation to material seized during a search.
 The Act does not make an exception for suspects or mention the privilege
 against self- incrimination.
 
-**History**\
+### History  
 The *[Framework](http://www.irlgov.ie/tec/communications/signat.htm) for
 Ireland\'s Policy on Cryptography and Electronic Signatures* of June
 1998 included the following basic principles: \"The production, import
@@ -69,7 +69,7 @@ on requiring access to plaintext or crypto keys. According to the
 explanatory note, this provision provided lawful access to evidence, and
 it was not an enabler of mandatory key escrow or key recovery.
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 The *[Framework](http://www.irlgov.ie/tec/communications/signat.htm) for
 Ireland\'s Policy on Cryptography and Electronic Signatures* of June
 1998 comprised the following basic principles:

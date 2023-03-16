@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Tonga]{#to} \[[Source](cls-srce.htm) 5\]
+# [Tonga]{#to} \[[Source](cls-srce.htm) 5\]
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 The [Tonga Computer Crimes
 Act](http://www.paclii.org/to/legis/num_act/cca2003185/) (also [text in
 pdf](http://www.coe.int/t/dghl/cooperation/economiccrime/cybercrime/documents/countryprofiles/tonga%20ComputerCrimesAct.pdf)),

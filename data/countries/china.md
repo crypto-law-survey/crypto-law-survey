@@ -7,11 +7,11 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [People\'s Republic of China]{#prc} \[[Sources](cls-srce.htm) 3, 5\]
+# [People\'s Republic of China]{#prc} \[[Sources](cls-srce.htm) 3, 5\]
 
 See also [Hong Kong Special Administrative Region](#hk).
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 By State Council Order No. 273, \"Commercial Use Password Management
 Regulations\" ([text in
 Chinese](http://www.oscca.gov.cn/News/200512/News_1053.htm); inofficial
@@ -29,7 +29,7 @@ clarified that the regulations do not entail key escrow.\
 However, the clarification letter only seems to apply to pre-2000
 products. All products since 2000 seem to require a license.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 By State Council Order No. 273, \"Commercial Use Password Management
 Regulations\" ([text in
 Chinese](http://www.oscca.gov.cn/News/200512/News_1053.htm)), published

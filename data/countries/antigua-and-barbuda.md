@@ -7,9 +7,10 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Antigua and Barbuda]{#ab} \[[Source](cls-srce.htm) 5\]
+# [Antigua and Barbuda]{#ab} \[[Source](cls-srce.htm) 5\]
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations
+
 Art. 21(5)(c) of [Computer Misuse Bill,
 2006](http://www.laws.gov.ag/bills/2006/computer-misuse-bill-2006.pdf)
 contains a power to order people to provide decryption information. The

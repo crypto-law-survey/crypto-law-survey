@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Israel]{#is} \[[Sources](cls-srce.htm) 3, 5\]
+# [Israel]{#is} \[[Sources](cls-srce.htm) 3, 5\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 Import and export of cryptography require a license from the
 Director-General of the Ministry of Defence (who is aided in this by an
 advisory committee). The Director-General can grant a general license
@@ -28,7 +28,7 @@ for requesting a license.
 
 See the [address](cls-addr.htm) list for contact details.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 Engagement in means of cryptography (including use, manufacture,
 transport, and distribution) is
 [regulated](http://www.mod.gov.il/encryption/preface.asp) and requires a

@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Vietnam]{#vi} \[[Source](cls-srce.htm) 5\]
+# [Vietnam]{#vi} \[[Source](cls-srce.htm) 5\]
 
-**1. Export/ import controls**
+## 1. Export/ import controls  
 
 Import of encryption technology for protection of confidential data
 requires a license from the Ministry of Trade. If the technology is

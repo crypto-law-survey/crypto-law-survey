@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Hungary]{#hu} \[[Source](cls-srce.htm) 5\]
+# [Hungary]{#hu} \[[Source](cls-srce.htm) 5\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 [Wassenaar](#co) and [EU](#eu_exp) export controls are implemented
 through the Government Decree No. 50/2004 *(III.23.) on Licensing
 foreign trade in dual-use goods and technologies* ([text in
@@ -21,7 +21,7 @@ Import of cryptography also falls under the Decree (see Part II): for
 import from outside of the EU to Hungary, an International Import
 Certificate is required (see artt. 14, 16ff).
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 A provision in the Hungarian [Digital Signature
 Act](http://net.jogtar.hu/jr/gen/hjegy_doc.cgi?docid=A0100035.TV) (text
 in Hungarian), which entered into force on 1 September 2001, holds that
@@ -32,7 +32,7 @@ cryptographic purposes, in the interest of national security. (Note that
 cryptographic keys *not* used for creating signatures can be used for
 encrypting.)
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 In February 2001, the Data Protection Commissioner issued a
 recommendation against regulating cryptography.
 

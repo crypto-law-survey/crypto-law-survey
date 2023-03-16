@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [France]{#fr} \[[Sources](cls-srce.htm) 1, 3, 4, 5, 6, 7\]
+# [France]{#fr} \[[Sources](cls-srce.htm) 1, 3, 4, 5, 6, 7\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 France has signed the [Wassenaar](#Wassenaar) Arrangement for **export**
 controls, with the exception of the (pre-December 1998) General Software
 Note. See the government\'s [SSI site](http://www.ssi.gouv.fr) (under
@@ -44,7 +44,7 @@ date (art. 40). Failure to comply with these requirements is punishable
 with up to one (declaration) or two (authorisation) years\' imprisonment
 and a fine of maximum 15,000 or 30,000 euro, respectively (art. 35).  
 
-**History**\
+### History  
 Formerly, the regulation was the law of 26 July 1996 (see [article
 28](http://www.ssi.gouv.fr/fr/reglementation/lois/lois_fr4.html) (in
 French)) and the decrees implementing it of 24 February 1998, [no.
@@ -92,7 +92,7 @@ rules were proposed as follows.
 Similar provisions have now been enacted through the law on trust in the
 digital economy (see above). 
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 France used to restrict the domestic use and supply of cryptography for
 a long time (see below under History). This restrictive legislation
 (authorization and declaration were required for almost all
@@ -102,7 +102,7 @@ domestic use of cryptography was liberalized in January 1999.
 Subsequently, other kinds of regulation (decrytion order, raising
 punishment) have followed.
 
-**Current state of the law**\
+### Current state of the law  
 The **use** of cryptography is free, according to article 30(I) of the
 [law No.
 2004-575](http://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=ECOX0200175L)
@@ -184,7 +184,7 @@ and seizure of cryptography. Failure to comply with a request for
 information or documents or blocking the investigation is punishable
 with up to six months\' imprisonment and a fine of 7,500 euro (art. 36).
 
-**History of French domestic crypto laws**\
+### History of French domestic crypto laws  
 Before 1996, delivery, importation, exportation, and use of cryptography
 were subjected to: a) prior declaration if the cryptography can have no
 other object than authenticating communications or assuring the

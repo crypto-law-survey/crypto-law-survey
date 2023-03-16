@@ -7,12 +7,12 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Uruguay]{#ur} \[[Source](cls-srce.htm) 5\]
+# [Uruguay]{#ur} \[[Source](cls-srce.htm) 5\]
 
-**1. Export/ import**\
+## 1. Export/ import  
 Import is not restricted.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 There are no restrictions on crypto use.
 
 Back to the [Table of Contents](index.md)

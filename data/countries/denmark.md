@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Denmark]{#de} \[[Sources](cls-srce.htm) 1, 4, 5, 9\]
+# [Denmark]{#de} \[[Sources](cls-srce.htm) 1, 4, 5, 9\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 There are export controls according to the (pre-December 1998)
 [Wassenaar Arrangement](#Wassenaar), including the General Software
 Note. The Danish representative agreed to the December 1998 Wassenaar
@@ -27,10 +27,10 @@ sensitive products to sensitive end-users.\"\
 Import is not controlled, and this policy will be maintained, as
 confirmed the first principle of the Danish Encryption Policy.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 None.
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 The Danish Technology Council, in an October 1995 report, discussed
 several options for cryptography policy, varying from doing nothing to
 prohibiting cryptography, without really taking a stand itself.

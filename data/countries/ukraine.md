@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Ukraine]{#ukr} \[[Source](cls-srce.htm) 5\]
+# [Ukraine]{#ukr} \[[Source](cls-srce.htm) 5\]
 
-**1. Export/ import**\
+## 1. Export/ import  
 Ukraine has signed the [Wassenaar](#Wassenaar) Arrangement. Export and
 import are subject to licensing, according to the [ *Law On Licensing
 Certain Types of Economic Activity* of 1 June 2000. Licenses are issued
@@ -20,7 +20,7 @@ style="font-size: 12.0pt; font-family: Times New Roman"}[Source:
 (Word) by Russian-Ukrainian Legal Group.)]{lang="EN-US"
 style="font-family: Times New Roman"}
 
-**2. Domestic laws and regulations\
+## 2. Domestic laws and regulations  
 Production, trade and use of cryptography are** subject to licensing,
 according to the [ *Law On Licensing Certain Types of Economic Activity*
 of 1 June 2000. Licenses are issued by the Department of Special

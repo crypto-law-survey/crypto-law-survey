@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Rwanda]{#rw} \[[Sources](cls-srce.htm) 5\]
+# [Rwanda]{#rw} \[[Sources](cls-srce.htm) 5\]
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 At a 1998 workshop on ICT Policy and Strategy in Rwanda, organised by
 the Rwanda government, ECA, UNESCO and USAIS in December 1998, the
 [draft

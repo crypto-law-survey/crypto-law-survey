@@ -7,16 +7,16 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Brazil]{#br} \[[Sources](cls-srce.htm) 3, 5\]
+# [Brazil]{#br} \[[Sources](cls-srce.htm) 3, 5\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 There are no export or import controls, but the government is working on
 a regulation.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 There are no controls on crypto use.
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 The government is working on a crypto law, but does not intend to
 restrict cryptography use.
 

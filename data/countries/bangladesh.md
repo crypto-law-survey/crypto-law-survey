@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Bangladesh]{#ba} \[[Source](cls-srce.htm) 5\]
+# [Bangladesh]{#ba} \[[Source](cls-srce.htm) 5\]
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations 
 There seems to be no law restricting cryptography.
 
 Back to the [Table of Contents](index.md)

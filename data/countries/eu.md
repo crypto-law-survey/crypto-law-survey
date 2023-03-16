@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [European Union]{#eu} \[[Sources](cls-srce.htm) 5, 7, 8\]
+# [European Union]{#eu} \[[Sources](cls-srce.htm) 5, 7, 8\]
 
-[**1. Export/ import controls**\
+## 1. Export/ import controls  
 Export of dual-use goods, including cryptography, is regulated by the
 *Council Regulation (EC) No 1334/2000 setting up a Community regime for
 the control of exports of dual-use items and technology* (*Official
@@ -49,7 +49,7 @@ licensing procedures are simplified.
     for an individual license. For mass-market crypto software and
     hardware
 
-**Former regulation**\
+### Former regulation  
 The December 1994 EU Council Regulation (EC) No. 3381/94 (amended by
 Regulation (EC) 837/95 of 10 April 1995) and EU Council Decision No.
 94/942/CFSP (amended by Council Decision 98/232/CFSP and EU Council
@@ -112,7 +112,7 @@ on Cryptographic Software Export Controls in the EU, and the [documents
 page](http://www.dti.gov.uk/export.control/legislation/ecreg.htm) at
 UK\'s DTI. 
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 The European Council [Resolution of 17 January 1995 on the lawful
 interception of telecommunications
 (96/C329/01)](http://www.privacy.org/pi/activities/tapping/eu_tap_resolution_1995.html)
@@ -122,7 +122,7 @@ law-enforcement agencies \"en clair\" (which I interpret as meaning to
 provide the signal as they received it, since they cannot undo
 encryption by users).
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 The draft *Green Book on the Security of Information Systems* (Draft
 4.0, 18 October 1993), which has not been officially adopted by the
 European Council, poses a case for the provision of \"Public

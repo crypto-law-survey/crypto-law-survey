@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Italy]{#it} \[[Sources](cls-srce.htm) 1, 3, 5, 8\]
+# [Italy]{#it} \[[Sources](cls-srce.htm) 1, 3, 5, 8\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 Export is regulated according to the [EU](#eu_exp) regulations. Italy
 has signed the [Wassenaar](#Wassenaar) Arrangement, including the
 (pre-December 1998) General Software Note. See the law 185/90, New Norms
@@ -18,7 +18,7 @@ on the control of export, import and transit of arms materials.
 The ministry responsible for crypto export is the [Ministero delle
 Attività Produttive (area Commercio estero)](http://www.mincomes.it).
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 There is a law that demands accessibility of encrypted records for the
 treasury.
 
@@ -39,7 +39,7 @@ data) is encrypted (\"cifrato\"). The text of the New Privacy Code can
 be found at the Italian Data Protection Authority\'s
 [website](http://www.garanteprivacy.it/garante/navig/jsp/index.jsp?folderpath=Normativa%2FItaliana%2FIl+Codice+in+materia+di+protezione+dei+dati+personali){target="_blank"}.
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 A 1992 proposal by the Minister of the Interior would have introduced a
 licensing scheme for encryption and would have required producers and
 importers of cryptography to deposit keys with the Ministry of Post and

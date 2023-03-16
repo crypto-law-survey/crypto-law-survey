@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [South Africa]{#sa} \[[Sources](cls-srce.htm) 1, 3, 5\]
+# [South Africa]{#sa} \[[Sources](cls-srce.htm) 1, 3, 5\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 There are import and export controls for military cryptography, as
 regulated by the Defense Armaments Development and Protection Act 1968,
 No. R. 888, published May 13, 1994, and the General Armaments Control
@@ -19,7 +19,7 @@ controlled (a military supplier being a company who has developed the
 technology specifically for sale to governments such as a government
 military contractor). Otherwise crypto import and export is free.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 Use of encryption is free for commercial or private organizations.
 
 The provision of cryptography products or services, however, is strictly
@@ -95,7 +95,7 @@ person concerned with a computer or computer data to provide \"the
 reasonable assistance that may be required to facilitate the execution\"
 of the search warrant.)
 
-**3. Developments** **in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 None.
 
 Back to the [Table of Contents](index.md)

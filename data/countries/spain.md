@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Spain]{#sp} \[[Source](cls-srce.htm) 1\]
+# [Spain]{#sp} \[[Source](cls-srce.htm) 1\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 Export of cryptography is controlled according to the (pre-December
 1998) [Wassenaar](#co) and [EU](#eu_exp)regulations, including the
 General Software Note. The international regulations are implemented in
@@ -17,7 +17,7 @@ the *Reglamento del Comercio Exterior de Material de Defensa y de Doble
 Uso*, in force since 9 May 1998. The regulation does not make
 distinctions based on key lenghts.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 The General Telecommunications Law (text, **now outdated**, in
 [Spanish](http://www.setsi.mcyt.es/legisla/teleco/lgt/indice.htm)) of 24
 April 1998 provided in article 52 that all information transmitted
@@ -56,7 +56,7 @@ well as the obligation to facilitate without any cost the encryption
 devices, in order to control it according to the law in force.\" The
 impact of the change is unclear.
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 See under 2.
 
 Back to the [Table of Contents](index.md)

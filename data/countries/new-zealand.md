@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [New Zealand]{#nz} \[[Sources](cls-srce.htm) 1, 5\]
+# [New Zealand]{#nz} \[[Sources](cls-srce.htm) 1, 5\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 New Zealand has signed the [Wassenaar](#Wassenaar) Arrangement, which it
 implemented verbatim in 1999. The current law includes the General
 Technology Note of Wassenaar, which exempts public-domain software from
@@ -35,10 +35,10 @@ required permission, according to an [article by Peter
 Gutman](http://www.cs.auckland.ac.nz/~pgut001/policy/index.html).
 However, the export regulations did not seem to have been enforced.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 None.
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 None.
 
 Back to the [Table of Contents](index.md)

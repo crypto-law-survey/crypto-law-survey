@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Australia]{#aus} \[[Sources](cls-srce.htm) 1, 3, 5, 8\]
+# [Australia]{#aus} \[[Sources](cls-srce.htm) 1, 3, 5, 8\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 Export is regulated through the [Defence and Strategic Goods
 List](http://www.dao.defence.gov.au/exportcontrols/dld_dsgl.html), last
 changed in June 1999 according to the December 1998
@@ -53,7 +53,7 @@ Compare Nick Ellsmore\'s
 [Cryptology](http://cryptome.org/crypto97-ne.htm) for background on the
 Australian situation.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 On 27 September 2001, the *Cybercrime Act,* No. 161, 2001, was passed,
 based on the Council of Europe\'s (then draft) *[Convention on
 Cybercrime](#coe)*. Item 12 of the law inserts a [section
@@ -81,8 +81,8 @@ Contingency, power and resistance in the context of section 3LA of the
 Australian Crimes Act 1914. *The University of Queensland Law Journal*,
 *23* 1: 7-21.
 
-**3. Developments in cryptography regulation**\
-*Earlier developments\
+## 3. Developments in cryptography regulation  
+### Earlier developments  
 * There has been an apparently unfounded rumour in the mid-1990s that
 Australia was planning to restrict banks to Government Access to Keys.
 

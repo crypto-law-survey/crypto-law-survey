@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Tunisia]{#tun} \[[Sources](cls-srce.htm) 5\]
+# [Tunisia]{#tun} \[[Sources](cls-srce.htm) 5\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 Import of cryptography is restricted. It seems a government agency
 (Centre d'Etudes et de Recherches des Télécoms, CERT) has to examine and
 approve the crypto product. \[Note: this may have changed in light of
@@ -17,7 +17,7 @@ the  decrees mentioned below, but I have no specific recent information
 on the import controls.\]\
 I have no information about export restrictions in Tunisia.
 
-**2. Domestic laws and regulations**  \
+## 2. Domestic laws and regulations  
 Telecommunication service providers need authorisation if they want to
 use encryption, and they have to deposit keys with the government,
 according to Decree No. 1997-501 of 14 March 1997 (Official Journal of

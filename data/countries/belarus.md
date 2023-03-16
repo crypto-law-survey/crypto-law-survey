@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Belarus]{#by} \[[Source](cls-srce.htm) 5, 7\]
+# [Belarus]{#by} \[[Source](cls-srce.htm) 5, 7\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 Import and export of cryptography (coding equipment) is restricted
 through
 [Resolution](http://projects.sipri.se/expcon/natexpcon/Belarus/belcust.htm)
@@ -18,7 +18,7 @@ March 1997. One must obtain a license from the Ministry of Foreign
 Affairs or the State Center for Information Security of the Security
 Council..
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 According to the 21 August 1995 [decree N.
 456](http://www.belarus.net/softinfo/catal_la/l00050.htm), for
 application of cryptography means, a license is required by the State

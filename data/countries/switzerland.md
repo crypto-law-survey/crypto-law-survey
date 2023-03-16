@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Switzerland]{#su} \[[Sources](cls-srce.htm) 1, 3, 5, 9\][](http://www.admin.ch/bawi/f/kontroll/gkge.pdf)
+# [Switzerland]{#su} \[[Sources](cls-srce.htm) 1, 3, 5, 9\][](http://www.admin.ch/bawi/f/kontroll/gkge.pdf)
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 Crypto import is not controlled. Import certificates will be given if
 the country of origin requires this.
 
@@ -39,7 +39,7 @@ See the [information
 page](http://www2.seco-admin.ch/seco/seco2.nsf/dieSeite/AWP_ExpKont_ExpKont?OpenDocument&l=de&HauptRessort=4)
 of the State Secretary of Economic Affairs (German).
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 Study \[1\] did not find cryptography regulations, but its follow-up
 study \[9\] claims there was a restriction on the use of certain
 cryptography: radio communications must remain understandable, and if a
@@ -69,7 +69,7 @@ review by the Federal Office for Communications (OFCOM).
 Apart from these two specific regulations, there are no domestic crypto
 regulations.
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 None.
 
 Back to the [Table of Contents](index.md)

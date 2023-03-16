@@ -7,16 +7,16 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [United States of America]{#us} \[[Sources](cls-srce.htm) 1, 2, 4, 5, 7\]
+# [United States of America]{#us} \[[Sources](cls-srce.htm) 1, 2, 4, 5, 7\]
 
 []{#us_1}
 
-### 1. Export/ import controls
+## 1. Export/ import controls
 
-**Import**\
+### Import
 There are no import restrictions on cryptography.
 
-**Export**\
+### Export
 The US has signed the [Wassenaar](#Wassenaar) Arrangement, but does not
 implement the (pre-December 1998) General Software Note and generally
 maintains stricter controls.
@@ -258,7 +258,7 @@ See [BIS\' Wassenaar](http://www.bis.doc.gov/Wassenaar/) and BIS\'
 also the encryption excerpts of [BXA\'s 1997 Annual
 Report](http://jya.com/bxa97-encry.htm).
 
-**Personal-use exemption**\
+### Personal-use exemption
 In February 1996, the ITAR rules were amended as regards personal use of
 cryptography. Temporary export of products for personal use was exempted
 from the need of a license, provided the exporter take normal
@@ -276,7 +276,7 @@ version](http://jya.com/itar021696.txt)). The Department of Commerce
 announced in February 1997 it would revise the new regulations to, among
 others, clarify the personal use exemption for laptop computers.
 
-**Export Administration Act**\
+### Export Administration Act
 The Export Administration Act expired in August 1994, but it was
 extended by Executive Order 12924 by the president with the authority
 under the International Emergency Economic Powers Act ([50 USC
@@ -310,7 +310,7 @@ to advise the Secretary for Export Administration on the implementation
 of crypto export policy; it consists of approximately 25 members from
 the exporting community and government agencies.
 
-**ITAR**\
+### ITAR
 The [International Traffic in Arms
 Regulation](http://www.epic.org/privacy/crypto/export_controls/itar.txt)
 (ITAR) restricted export of \"dual-use\" cryptography (that is,
@@ -335,12 +335,12 @@ were handed out at the December meeting.
 
 Back to the [Table of Contents](index.html#toc)
 
-**Initiatives to relax export controls**\
+### Initiatives to relax export controls
 Several initiatives, as yet unsuccessful, have been taken, both in
 Congress and by the public, to try to mitigate the cryptography export
 restrictions.
 
-**Karn, Bernstein, and Junger cases**\
+### Karn, Bernstein, and Junger cases
 A federal district court in Washington, DC, on March 22, 1996 rejected
 the claims of *Phil Karn*, stating that the case presented a political
 question for the two elected branches to decide. It held that the export
@@ -443,7 +443,7 @@ See various [documents](http://jya.com/pdj.htm) in this case, and
 
 Back to the [Table of Contents](index.html#toc)
 
-**Congress Bills**\
+### Congress Bills
 Three bills were proposed in 1996 to ease export controls. [Senator
 Leahy\'s bill]{#leahy}, proposed on 5 March 1996, the [Encrypted
 Communications Privacy
@@ -568,7 +568,7 @@ supporting the proposed SAFE Act (the original version, see above).
 
 Back to the [Table of Contents](index.html#toc)
 
-**Reports**\
+### Reports
 The Department of Commerce recommended easing export controls after a
 joint
 [study](http://www.epic.org/privacy/crypto/export_controls/commerce_study_summary.txt)
@@ -594,14 +594,14 @@ government is working toward a policy that will readily license export
 of key-escrow systems, once the needed infrastructure and
 government-to-government agreements are in place.
 
-**More information**\
+### More information
 See for more information and links the [Cryptography Export Control
 Archives](ftp://ftp.cygnus.com/pub/export/export.html) and John Young\'s
 [Arms Control Essays](http://jya.com/acda.htm).
 
 Back to the [Table of Contents](index.html#toc)
 
-### 2. Domestic laws and regulations
+## 2. Domestic laws and regulations
 
 [**DMCA**\
 The]{#us_wipo} [Digital Millennium Copyright
@@ -721,7 +721,7 @@ evidence, the Fifth Amendment was violated.
 
 []{#us_3}
 
-### 3. Developments in cryptography regulation
+## 3. Developments in cryptography regulation
 
 [**Escrowed Encryption Standard (Clipper)**\
 In 1993,]{#ees} the Clinton Administration announced the Escrowed
@@ -755,7 +755,7 @@ developer of the Fortezza card (implementing the key-escrow system of
 the EES), would no longer implement the EES; instead, it would work to
 adopt key recovery as promoted by the US government (see below).
 
-**Key Management Infrastructure**\
+### Key Management Infrastructure
 In its May 1996 draft paper [\"Enabling Privacy, Commerce, Security and
 Public Safety in the
 GII\"](http://www.epic.org/crypto/key_escrow/white_paper.html)(referred
@@ -785,7 +785,7 @@ recommendation. The charter of the TACDFIPSFKMI was renewed in August
 released a report on proposed key-recovery standards, for which comments
 could be submitted until 4 November 1999 (website no longer available).
 
-**[NRC report]{#us_4_nrc}**\
+### NRC report]{#us_4_nrc}
 The June 1996 National Research Council study [Cryptography\'s role in
 Securing the Information
 Society](http://www.nap.edu/readingroom/books/crisis/), which was
@@ -796,7 +796,7 @@ not push others to use it; even if the current many unresolved questions
 regarding key escrow were resolved, adoption of escrowed encryption (or
 of any other standard) should be voluntary.
 
-**Broad Encryption Policy**\
+### Broad Encryption Policy
 The 1 October 1996 [statement by the Vice
 President](http://www.epic.org/crypto/key_escrow/clipper4_statement.html),
 covering export controls, also refers to domestic crypto use. The
@@ -811,7 +811,7 @@ the development of innovative key-escrow products and services. The
 Administration will also seek legislation to facilitate commercial
 key-escrow, including liability issues for releasing keys.
 
-**Crypto Ambassador**\
+### Crypto Ambassador
 On November 15, 1996, the government appointed ambassador Aaron as
 \"special envoy for cryptography\". He will promote international
 cooperation and coordinate US contacts with foreign governments on
@@ -820,7 +820,7 @@ Center (EPIC) filed a lawsuit to seek public disclosure of the travel
 records of ambassador Aaron. EPIC acquired the travel records in January
 1998.
 
-**Annual report on criminal crypto use**\
+### Annual report on criminal crypto use
 A 2 October 1996 law (HR 3723) includes an amendment requiring the US
 Sentencing Commission to report annually on the use of computer
 encryption to conceal criminal activity. Likewise, by law S. 1769 signed
@@ -834,7 +834,7 @@ encounters will be provided.
 
 []{#krdraft}
 
-**Draft Key Recovery Legislation**\
+### Draft Key Recovery Legislation
 At the end of March 1997, a [Draft Key Recovery
 Legislation](http://www.cdt.org/crypto/970312_admin.html) dating from 12
 March was published: the \"Electronic Data Security Act of 1997\". The
@@ -880,7 +880,7 @@ administration will not pursue mandatory key recovery. Rather, the
 government will pursue a dialogue between industry and law
 enforcement.]{#kerrey}
 
-**Cyberspace Electronic Security Act of 1999**\
+### Cyberspace Electronic Security Act of 1999
 On 16 September 1999, together with the announcement of [export
 relaxation](#us_exp9909), the goverment
 [proposed](http://www.pub.whitehouse.gov/uri-res/I2R?urn:pdi://oma.eop.gov.us/1999/9/16/16.text.1)
@@ -920,7 +920,7 @@ comments, Rijndael was officially approved and announced in the [Federal
 Register]{href\"http:="" csrc.nist.gov="" cryptotoolkit="" aes=""
 frn-fips197.pdf\"=""}, becoming effective on 26 May 2002.
 
-**[Domestic Security Enhancement Act 2003]{#us_patriot2} (Patriot II)**\
+### Domestic Security Enhancement Act 2003]{#us_patriot2} (Patriot II)
 A draft Domestic Security Enhancement Act 2003 (Patriot II) of 9 January
 2003 leaked out in February 2003 (see the
 [text](http://www.dailyrotten.com/source-docs/patriot2draft.html), also
@@ -932,7 +932,7 @@ suggests that these \"additional penalties are warranted to deter the
 use of encryption technology to conceal criminal activity\". The bill
 has not been submitted to Congress.
 
-**Congress bills**\
+### Congress bills
 On 16 June 1997, Senators Kerrey, McCain, and Hollings introduced a bill
 largely similar to the government draft key-recovery legislation, the
 [Secure Public Networks

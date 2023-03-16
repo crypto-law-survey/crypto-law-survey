@@ -7,16 +7,16 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Belgium]{#be} \[[Sources](cls-srce.htm) 1, 3, 5\]
+# [Belgium]{#be} \[[Sources](cls-srce.htm) 1, 3, 5\]
 
-**1. Export/ import controls**
+## 1. Export/ import controls  
 Belgium requires a license for exporting cryptography outside of the
 Benelux. Belgium has signed the [Wassenaar](#Wassenaar) Arrangement,
 including the (pre-December 1998) General Software Note.
 
-**2. Domestic laws and regulations**
+## 2. Domestic laws and regulations  
 
-***Decryption order***
+### Decryption order  
 
 The *Law on information-science crime* (*Wet van 28 november 2000
 inzake informaticacriminaliteit / Loi du 28 Novembre relative à la
@@ -64,7 +64,7 @@ or persons with a right to non-disclosure, presumably because the
 provision apparently addresses telecommunication providers rather than
 telecommunications users.
 
-**Program Act**
+### Program Act  
 
 The *Program Act* (*Programmawet / Loi-programme*) of 30 December
 2001, [Belgisch Staatsblad / Moniteur
@@ -105,7 +105,7 @@ messages; \"this problem will be reviewed later, having regard to the
 development of the technology or of potential abuse of encryption by
 mafia organizations or terrorists\".
 
-**History**
+### History  
 
 In January 1996, Belgium found itself having a law which might
 prohibit the use of unescrowed encryption. The law was passed in
@@ -137,7 +137,7 @@ enforcement problem by requiring everyone who would be able to help in
 decrypting to do this, provided the help is necessary for the
 investigation.
 
-**3. Developments to regulate cryptography**
+## 3. Developments to regulate cryptography  
 
 None.
 

@@ -7,17 +7,17 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Luxembourg]{#lu} \[[Source](cls-srce.htm) 5\]
+# [Luxembourg]{#lu} \[[Source](cls-srce.htm) 5\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 Luxembourg has signed the [Wassenaar](#Wassenaar) Arrangement, so export
 controls should be regulated according to the (pre-December 1998)
 regulations, including the General Software Note.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 None.
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 A draft *Law on Electronic Commerce* ([text](http://www.etat.lu/ECO/) in
 French, Word; [text](http://www.telepathic.com/lux) in French, html) was
 proposed in mid-1999. It affirms in article 2 that the use of

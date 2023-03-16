@@ -7,10 +7,10 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Council of Europe]{#coe} \[[Source](cls-srce.htm) 5\]
+# [Council of Europe]{#coe} \[[Source](cls-srce.htm) 5\]
 
-**2. Domestic laws and regulations\
-**On 23 November 2001, the Council of Europe adopted the [Convention on
+## 2. Domestic laws and regulations  
+On 23 November 2001, the Council of Europe adopted the [Convention on
 Cybercrime](http://conventions.coe.int/Treaty/EN/findknownste.asp?CM=1)
 \[search for convention 185\] (see the
 [text](http://conventions.coe.int/Treaty/en/Treaties/Html/185.htm) and
@@ -48,8 +48,8 @@ signatures and
 ratifications](http://conventions.coe.int/Treaty/EN/searchsig.asp?NT=185&CM=&DF=)
 for the current status of the convention.  
 
-*History of the Convention\
-*A Committee of Experts on Crime in Cyber-Space (PC-CY) was established
+### History of the Convention  
+A Committee of Experts on Crime in Cyber-Space (PC-CY) was established
 in January 1997, and published a first [draft
 text](http://conventions.coe.int/treaty/en/projets/cybercrime.htm) for
 discussion on 27 April 2000 (version 19). The Assembly of the CoE
@@ -89,7 +89,7 @@ EU\'s Legal Advisory Board, it was unclear \"whether the convention will
 contain any provisions on escrow of encryption algorithms\". The current
 text does not contain anything to suggest key escrow.
 
-**3. Developments in cryptography regulation**\
+## 3. Developments in cryptography regulation  
 The Council of Europe (a 46-member intergovernmental organisation, whose
 treaties are not directly applicable in national law), in its
 [Recommendation R (95) 13 Concerning Problems of Criminal Procedure Law

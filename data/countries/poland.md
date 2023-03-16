@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Poland]{#po} \[[Source](cls-srce.htm) 5\]
+# [Poland]{#po} \[[Source](cls-srce.htm) 5\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 A license is required for exporting encryption software or hardware, in
 accordance with the [EU dual-use goods regulation](#eu_exp) and the
 (pre-December 1998) [Wassenaar](#Wassenaar) Arrangement, including the
@@ -23,7 +23,7 @@ installed. Legitimate businesses will be helped with their application.
 There is no need for declaration for crypto software exported from
 abroad under the Wassenaar General Software Note.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 None.
 
 Back to the [Table of Contents](index.md)

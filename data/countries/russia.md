@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Russia]{#ru} \[[Sources](cls-srce.htm) 3, 5, 7\]
+# [Russia]{#ru} \[[Sources](cls-srce.htm) 3, 5, 7\]
 
-**1. Export/ import controls**\
+## 1. Export/ import controls  
 A license is required for the importation of encryption facilities
 manufactured abroad. The export of cryptography is subjected to a
 tightened state control. Importers and exporters need licenses by the
@@ -18,7 +18,7 @@ Arrangement, but does not implement the (pre-December 1998) General
 Software Note; its regulations are more stringent than the Wassenaar
 Arrangement.
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 On 3 April 1995, president Yeltsin issued a decree prohibiting
 unauthorized encryption. State organizations and enterprises need a
 license to use encryption (for both authentication and secrecy, for

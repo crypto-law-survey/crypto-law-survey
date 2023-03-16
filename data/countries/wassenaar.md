@@ -7,11 +7,11 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Wassenaar Arrangement]{#co} / COCOM \[[Sources](cls-srce.htm) 1, 5\]
+# [Wassenaar Arrangement]{#co} / COCOM \[[Sources](cls-srce.htm) 1, 5\]
 
-### 1. Export/ import controls
+## 1. Export/ import controls
 
-#### **COCOM**
+### COCOM
 
 COCOM (Coordinating Committee for Multilateral Export Controls) was an
 international organization for the mutual control of the export of

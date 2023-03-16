@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Costa Rica]{#cori} \[[Source](cls-srce.htm) 5\]
+# [Costa Rica]{#cori} \[[Source](cls-srce.htm) 5\]
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations  
 Use of encryption is apparently not regulated.
 
 Back to the [Table of Contents](index.md)

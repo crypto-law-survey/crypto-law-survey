@@ -7,9 +7,9 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-## [Trinidad & Tobago]{#tt} \[[Source](cls-srce.htm) 5\]
+# [Trinidad & Tobago]{#tt} \[[Source](cls-srce.htm) 5\]
 
-**2. Domestic laws and regulations**\
+## 2. Domestic laws and regulations   
 The [Computer Misuse Act,
 2000](http://www.ttcsweb.org/bill/compbill.pdf), passed in October 2000,
 contains a decryption order. Clause 16 provides that a \"police officer
