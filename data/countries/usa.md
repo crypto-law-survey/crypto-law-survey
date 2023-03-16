@@ -1061,4 +1061,4 @@ See the [EFF Privacy, Security, Crypto, Surveillance
 Archive](http://www.eff.org/pub/Crypto/) and the [EPIC Key Escrow
 Page](http://www.epic.org/crypto/key_escrow/).
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

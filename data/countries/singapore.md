@@ -75,4 +75,4 @@ release](http://www.ida.gov.sg/Website/IDAContent.nsf/dd1521f1e79ecf3bc825682f00
 of 19 January 2000 that announced the lifting of import controls,
 strongly encouraged companies to implement key recovery.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

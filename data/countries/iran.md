@@ -18,4 +18,4 @@ permission by submitting crypto algorithm and keys and information about
 regulated in art. 5.3.8 of the Rules and Regulations for Computer
 Information Providers.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

@@ -18,4 +18,4 @@ There are no domestic restrictions on cryptography for civilian use.
 \[Source: [2002 ITU
 document](http://www.itu.int/ITU-D/e-strategy/Seminars/CapeVerde/AfricaLegalFramework1.pdf)\]
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

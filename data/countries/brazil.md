@@ -20,4 +20,4 @@ There are no controls on crypto use.
 The government is working on a crypto law, but does not intend to
 restrict cryptography use.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

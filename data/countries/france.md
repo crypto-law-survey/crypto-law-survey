@@ -401,4 +401,4 @@ pre-1999 French encryption
 regulation](http://www.opengroup.org/security/meetings/apr98/french-regulation.pdf)
 (in pdf) by Yves le Roux.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

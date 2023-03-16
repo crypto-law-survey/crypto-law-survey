@@ -69,4 +69,4 @@ available for requesting a license.
 
 See the [address](cls-addr.htm) list for contact details.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

@@ -25,4 +25,4 @@ Security was required through Governmental Decision No. 859 of 13 August
 Moldovan](http://lex.justice.md/md/295447/)). I am not aware of any
 follow-up or additional legislation.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

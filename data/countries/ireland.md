@@ -96,4 +96,4 @@ a smaller set of basic principles:
 
 On the history of the lawful-access principle, see above at 2.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

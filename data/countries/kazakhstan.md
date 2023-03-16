@@ -25,4 +25,4 @@ Security is required for the development (including research),
 manufacture, repair (including technical support), and sale (including
 use and advertising) of cryptographic products.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

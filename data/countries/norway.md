@@ -53,4 +53,4 @@ policy](http://www.afin.uio.no/forskning/notater/kryptopolitikk_rapport_final.pd
 At the [OECD meeting](#oecd) of December 1995, Norway called in question
 the use of Trusted Third Parties for judicial access to keys.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

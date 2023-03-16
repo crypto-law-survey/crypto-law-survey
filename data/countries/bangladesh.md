@@ -12,4 +12,4 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 **2. Domestic laws and regulations**\
 There seems to be no law restricting cryptography.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

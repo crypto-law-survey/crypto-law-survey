@@ -41,4 +41,4 @@ the means of encryption and a manual explaining how to use and program
 the encryption technology\" \[source: 2005 HRW report [False
 Freedom](http://hrw.org/reports/2005/mena1105/)\]. 
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

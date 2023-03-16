@@ -532,4 +532,4 @@ Government should still hold a candle for key escrow and key recovery.\"
 For the subsequent legislative history of the decryption power in the
 RIPA 2000, see under 2.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

@@ -23,4 +23,4 @@ daily fine of not more than five thousand baht until the relevant
 corrective action has been taken\". The latter could imply that a person
 can be given daily fines until s/he cooperates with decryption.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

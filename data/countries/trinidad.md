@@ -28,4 +28,4 @@ fifteen thousand dollars and imprisonment for two years.\
 See a summary and some comments on the act at
 [TTCS](http://www.ttcsweb.org/compbill.htm#misusebill). 
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

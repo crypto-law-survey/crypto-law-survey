@@ -15,4 +15,4 @@ There are no import restrictions.
 **2. Domestic laws and regulations**\
 Use of encryption is not restricted.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

@@ -217,4 +217,4 @@ English). There is also an extensive [list of opinions and newspaper
 reports](http://www.iks-jena.de/mitarb/lutz/security/cryptoban/) by Lutz
 Donnerhacke.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

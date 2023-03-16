@@ -23,4 +23,4 @@ computer or data, and to \"obtain an intelligible output from a computer
 system in a format that can be read\". Failure to assist is punishable
 with a fine of up to T\$10,000 or maximum 2 years\' imprisonment.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

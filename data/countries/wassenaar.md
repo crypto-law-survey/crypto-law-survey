@@ -129,4 +129,4 @@ on Cryptographic Software Export Controls in the EU. Cf. an April 1996
 [article](http://www.dfat.gov.au/isecurity/pd/pd_4_96/pd10.html) on the
 Wassenaar Arrangement.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

@@ -59,4 +59,4 @@ impact of the change is unclear.
 **3. Developments in cryptography regulation**\
 See under 2.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

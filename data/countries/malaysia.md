@@ -52,4 +52,4 @@ committed. There is therefore no general power to order decryption.
     contrast, the privilege against self-incrimination can be deemed not
     to hold for complying with a decryption order.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

@@ -18,4 +18,4 @@ Office is required.\
 There is a personal-use exemption for travellers with crypto software on
 a laptop.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

@@ -22,4 +22,4 @@ version](http://www.bmvit.gv.at/telekommunikation/recht/aut/verordnungen/bfv.htm
 **3. Developments in cryptography regulation**\
 no
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

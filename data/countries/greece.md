@@ -18,4 +18,4 @@ regulations, including the General Software Note.
 **2. Domestic laws and regulations**\
 None.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

@@ -33,4 +33,4 @@ The provisioning of cryptography means and services is exclusively
 reserved for electronic certification providers, and their personnel
 must be approved by the government (Art. 14).
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

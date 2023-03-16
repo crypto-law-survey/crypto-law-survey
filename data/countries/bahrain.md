@@ -18,4 +18,4 @@ stipulates that frequency license holders may not use secret signs or
 codes in messages or conversations over their telecommunications network
 in contravention of the regulations.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

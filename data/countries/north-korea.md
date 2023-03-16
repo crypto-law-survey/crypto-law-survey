@@ -19,4 +19,4 @@ When requested to provide information about its encryption laws, the
 government of the Democratic People\'s Republic of Korea stated that
 they never release such information.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

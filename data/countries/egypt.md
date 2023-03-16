@@ -32,4 +32,4 @@ keys, safeguarding the encrypted data, which cannot be decoded unless
 according to a court decision\', suggesting an intention to mandate key
 escrow.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

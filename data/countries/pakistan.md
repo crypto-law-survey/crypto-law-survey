@@ -15,4 +15,4 @@ government to regulate cryptography. The sale and use of encryption
 hardware and software require approval by the PTA (Pakistan
 Telecommunications Authority?).
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

@@ -34,4 +34,4 @@ style="font-size: 12.0pt; font-family: Times New Roman"}[Source:
 (Word) by Russian-Ukrainian Legal Group.)]{lang="EN-US"
 style="font-family: Times New Roman"}
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

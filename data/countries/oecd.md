@@ -78,4 +78,4 @@ on Security. Privacy, and Intellectual Property Protection in the GII
 concluded the guidelines. The Guidelines were finally turned into a
 Council of the OECD resolution in March 1997.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

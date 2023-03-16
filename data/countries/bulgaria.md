@@ -12,4 +12,4 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 **1. Export/ import controls**\
 Bulgaria has signed the [Wassenaar](#Wassenaar) Arrangement.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

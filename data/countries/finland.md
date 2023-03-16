@@ -69,4 +69,4 @@ investigation of individual encrypted data\". By 31 December 1998, the
 Ministries of Justice and the Interior will clarify the need to reform
 the Coercive Criminal Investigation Means Act.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

@@ -15,4 +15,4 @@ Import is not restricted.
 **2. Domestic laws and regulations**\
 There are no restrictions on crypto use.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

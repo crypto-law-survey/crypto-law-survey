@@ -18,4 +18,4 @@ There is no requirement for key escrow, nor any restriction on key size.
 \[Source: [2002 ITU
 document](http://www.itu.int/ITU-D/e-strategy/Seminars/CapeVerde/AfricaLegalFramework1.pdf)\]
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

@@ -95,4 +95,4 @@ telecommunications. It would be necessary for such a CCA to have a legal
 basis. The Danish government has not (yet) implemented the initiative
 into law.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

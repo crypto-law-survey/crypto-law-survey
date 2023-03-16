@@ -22,4 +22,4 @@ There is no regulation restricting use of cryptography. (See
 [here](http://www.steptoe.com/assets/attachments/Encryption_Countryguide.pdf)
 for more details.)
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

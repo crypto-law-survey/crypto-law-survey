@@ -27,4 +27,4 @@ production, sale, repair, and operation of cryptography, a license by
 the Committee for State Security is needed. Cryptography use by business
 people is restricted.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

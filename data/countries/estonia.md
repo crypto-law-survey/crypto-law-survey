@@ -14,4 +14,4 @@ There are no import controls, but export is controlled along the
 [Wassenaar](#Wassenaar) model. Licenses for export can be obtained from
 the Ministry of Foreign Affairs.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

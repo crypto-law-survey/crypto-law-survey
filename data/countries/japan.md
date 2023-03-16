@@ -45,4 +45,4 @@ Development of cryptography and experiments of projects should be
 promoted, and network users should be provided with much more
 information about these, according to the draft.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

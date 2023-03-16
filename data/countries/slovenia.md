@@ -18,4 +18,4 @@ Protection Act (*Zakon o varstvu osebnih podatkov*). (See the
 [article](http://matej.owca.info/privacy/PHR04_slovenia.pdf) by Matej
 Kovacic about privacy in Slovenia.)
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

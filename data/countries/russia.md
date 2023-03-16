@@ -40,4 +40,4 @@ The government intended to amend the domestic regulations on
 cryptography, it announced in a Duma hearing on 18 May 2000. \[source:
 World Internet Law Report 2000/8, p. 29\]
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

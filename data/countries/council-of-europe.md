@@ -103,4 +103,4 @@ state *which* measures should be taken or *how* the \"balance must be
 found\" in the \"conflict of interests between the needs of the users
 and law enforcement\".
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

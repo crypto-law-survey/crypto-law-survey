@@ -236,4 +236,4 @@ stimulate the use of cryptography by serving as a role model and use
 cryptographic solutions in its own e-government security policy (p.
 27). 
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

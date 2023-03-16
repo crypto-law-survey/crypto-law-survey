@@ -14,4 +14,4 @@ Slovakia has signed the [Wassenaar](#Wassenaar) Arrangement, so export
 controls should be regulated according to the (pre-December 1998)
 regulations, including the General Software Note.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

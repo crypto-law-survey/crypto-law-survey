@@ -23,4 +23,4 @@ punishable with a fine of 15,000 dollars and/or two years\' imprisonment
 January 2007, according to the [overview of
 laws](http://www.laws.gov.ag/acts/index.html). 
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

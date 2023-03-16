@@ -38,4 +38,4 @@ Draft bills on electronic signatures and electronic commerce, however,
 may affect crypto use. The Draft Electronic Commerce Basic Law seems to
 oblige people to provide the government with crypto keys.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

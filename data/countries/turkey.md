@@ -20,4 +20,4 @@ suggest there may be restrictions.
 **3. Developments in cryptography regulation**\
 Source \[1\] did not find Developments in cryptography regulation.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

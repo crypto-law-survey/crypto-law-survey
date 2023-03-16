@@ -258,4 +258,4 @@ combating computer-related crime of 18 June 2001 calls for promoting
 \"European research in encryption software to improve the possibility of
 self-defence by consumers\".
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

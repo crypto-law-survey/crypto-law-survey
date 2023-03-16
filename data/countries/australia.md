@@ -114,4 +114,4 @@ Compare Nick Ellsmore\'s
 [Cryptology](http://cryptome.org/crypto97-ne.htm) for background on the
 Australian situation.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

@@ -72,4 +72,4 @@ regulations.
 **3. Developments in cryptography regulation**\
 None.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

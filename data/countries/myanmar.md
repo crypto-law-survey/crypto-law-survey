@@ -24,4 +24,4 @@ crypto import and export may be unrestricted.
 **2. Domestic laws and regulations**\
 Cryptography is said to be restricted through a licensing regime.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

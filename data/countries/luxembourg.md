@@ -34,4 +34,4 @@ them in the course of their professional activities, can excuse
 themselves. Otherwise, the person addressed is required to cooperate,
 under threat of a fine of LuxF 100,000 maximum.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

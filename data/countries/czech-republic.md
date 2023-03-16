@@ -29,4 +29,4 @@ None.
 **3. Developments in cryptography regulation**\
 No crypto regulation is expected.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

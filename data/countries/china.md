@@ -58,4 +58,4 @@ products. All products since 2000 seem to require a license.
 For wireless crypto products, China seems to require use of a Chinese
 proprietary algorithm (WAPI), and AES and WEP must be disabled.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

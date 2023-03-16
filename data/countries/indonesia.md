@@ -19,4 +19,4 @@ software on a laptop do not require a license.
 I have had conflicting reports about crypto use: one source claims it is
 illegal, whereas another source says there are no use restrictions.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

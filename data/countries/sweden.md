@@ -155,4 +155,4 @@ For national traffic in Sweden, the report considered that the current
 policy of free crypto use will be continued, and monitored \"from time
 to time, how the various interests are balanced\".
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

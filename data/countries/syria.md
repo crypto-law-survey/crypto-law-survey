@@ -14,4 +14,4 @@ According to the 2005 HRW report [False
 Freedom](http://hrw.org/reports/2005/mena1105/), there is no law
 regulating use of encryption in electronic communications. 
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

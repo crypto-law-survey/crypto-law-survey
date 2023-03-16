@@ -151,4 +151,4 @@ decryption keys.\"
 See the [summary](http://e-com.ic.gc.ca/english/fastfacts/43d7.html) of
 Canada\'s crypto policy.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

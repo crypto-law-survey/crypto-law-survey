@@ -12,4 +12,4 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 **1. Export/ import controls**\
 There are no export controls.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

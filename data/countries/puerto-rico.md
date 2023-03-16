@@ -15,4 +15,4 @@ There are no import controls.(See further [US law](#us_1).)
 **2. Domestic laws and regulations**\
 There are no restrictions on crypto use. (See further [US law](#us_2).)
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)

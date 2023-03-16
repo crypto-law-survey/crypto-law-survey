@@ -18,4 +18,4 @@ stated: \"Transparency as a rule in communication: encryption of
 information should be regulated.\" It is not known whether this has led
 to any concrete legislative proposals or legislation.
 
-Back to the [Table of Contents](index.html#toc)
+Back to the [Table of Contents](index.md)
