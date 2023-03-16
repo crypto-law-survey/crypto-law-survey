@@ -1,6 +1,7 @@
 **Version 27.0, February 2013**
 
 **© Bert-Jaap Koops**
+**Portions © Analog Devices, Inc. **  
 
 Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
