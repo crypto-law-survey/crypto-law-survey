@@ -2,11 +2,15 @@ This is a survey of existing and proposed laws and regulations on cryptography -
 
 [](http://www.britannica.com/)
 
-This survey will give an overview of the current state of affairs, with entries per country on import/export controls, domestic laws, developments to restrict cryptography, and developments favoring crypto use. For more  **background**  on the crypto policy dilemma, see Bert-Jaap's Ph.D. thesis _The Crypto Controversy. A Key Conflict in the Information Society_  (Kluwer Law International, 1999).
+This survey aims to give an overview of the current state of affairs, with entries per country on import/export controls, domestic laws, developments to restrict cryptography, and developments favoring crypto use. For more  **background**  on the crypto policy dilemma, see Bert-Jaap's Ph.D. thesis _The Crypto Controversy. A Key Conflict in the Information Society_  (Kluwer Law International, 1999).
 
 Cryptography used for  **digital signatures**  is not covered by this survey. For regulation of digital signatures, see  [Digital Signatures and Law](http://en.wikipedia.org/wiki/Digital_signatures_and_law).
 
 **See also**  (but largely outdated): Stewart Baker & Paul Hurst,  _The Limits of Trust_ from August 1998 and the extensive survey by EPIC and GILC,  [Cryptography and Liberty 2000](http://epic.org/bookstore/crypto00&/)  (earlier version:  [1998](http://www.gilc.org/crypto/crypto-survey.html)). And see generally on export controls Simo-Pekka Parviainen's  [thesis](http://ethesis.helsinki.fi/julkaisut/oik/julki/pg/parviainen/)  (particularly on the EU).
+
+## Enjoy the content
+
+Please have a look at: [the main country list](https://github.com/crypto-law-survey/crypto-law-survey/blob/main/data/countries/index.md) for the current status.
 
 ## Participate
 
