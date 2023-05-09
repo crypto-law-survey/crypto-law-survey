@@ -14,7 +14,7 @@ Canada follows (pre-December 1998) [Wassenaar](#co) regulations. The
 export of items from Canada may be subject to restriction if they are
 included on the Export Control List. In December 1996, Canada granted
 export of 56-bit cryptography to most countries for a twelve-month trial
-period; this has been extended until 30 June 1998. Mass-marker and
+period; this has been extended until 30 June 1998. Mass-market and
 public-domain software is excluded from the controls.
 
 All types of cryptography can be transported between Canada and the

@@ -16,7 +16,7 @@ through
 of the Council of Ministers of the Republic of Belarus No. 218 of 18
 March 1997. One must obtain a license from the Ministry of Foreign
 Affairs or the State Center for Information Security of the Security
-Council..
+Council.
 
 ## 2. Domestic laws and regulations  
 According to the 21 August 1995 [decree N.

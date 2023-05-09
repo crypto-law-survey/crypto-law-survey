@@ -11,8 +11,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ## 2. Domestic laws and regulations
 
-Art. 21(5)(c) of [Computer Misuse Bill,
-2006](http://www.laws.gov.ag/bills/2006/computer-misuse-bill-2006.pdf)
+Art. 21(5)(c) of [Computer Misuse Bill, 2006](http://www.laws.gov.ag/bills/2006/computer-misuse-bill-2006.pdf)
 contains a power to order people to provide decryption information. The
 power can be executed by police officers who execute a warrant, in case
 of offences defined in the Act or other offences disclosed while
@@ -21,7 +20,6 @@ to access decryption information himself (art. 21(5)(a)(iii)).
 Obstructing the police or failing to comply with the decryption order is
 punishable with a fine of 15,000 dollars and/or two years\' imprisonment
 (art. 21(6)). The Bill does not yet seem to have been enacted as of
-January 2007, according to the [overview of
-laws](http://www.laws.gov.ag/acts/index.html). 
+January 2007, according to the [overview of laws](http://www.laws.gov.ag/acts/index.html). 
 
 Back to the [Table of Contents](index.md)
