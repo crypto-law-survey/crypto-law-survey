@@ -10,7 +10,7 @@ Cryptography used for  **digital signatures**  is not covered by this survey. Fo
 
 ## Enjoy the content
 
-Please have a look at: [the main country list](https://github.com/crypto-law-survey/crypto-law-survey/blob/main/data/countries/index.md) for the current status.
+Please have a look at: [the main country list](data/countries/index.md) for the current status.
 
 ## Participate
 
