@@ -92,8 +92,8 @@ However, the potential prohibition of article 109terE, para. 6, has to
 be read in conjunction with another article in the same Law, art.
 109terF. This was inserted on 19 December 1997 (see the [Belgisch
 Staatsblad/ Moniteur Belge](http://www.just.fgov.be/) of 30 December
-1997) to clear the confusion that an earlier law had caused (see below)
-. This article states explicitly that the use of encryption is free. The
+1997) to clear the confusion that an earlier law had caused (see below).
+This article states explicitly that the use of encryption is free. The
 provision of indicated encryption services to the public is subject to
 prior notification (four weeks in advance) to the Belgian Institute of
 Post and Telecommunications. The explanatory note states that the
