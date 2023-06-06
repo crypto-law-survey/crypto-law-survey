@@ -23,3 +23,9 @@ This survey of cryptography laws is based on several reports, information from t
 ## Credits
 
 This text comes originally from Bert-Jaap Koops' [Crypto Law Survey](http://www.cryptolaw.org/) site, and may be edited in the future.
+
+## License
+
+This file, and the rest of the files in this repository are licensed under Creative Commons Attribution Share Alike 4.0 International.
+
+SPDX-License-Identifier: CC-BY-SA-4.0
