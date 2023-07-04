@@ -1,4 +1,4 @@
-**Version 27.0, February 2013**
+**Version 28.0, July 2023**
 
 **© Bert-Jaap Koops**
 **Portions © Analog Devices, Inc. **  
@@ -7,21 +7,20 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [United States of America]{#us} \[[Sources](cls-srce.htm) 1, 2, 4, 5, 7\]
+# United States of America
 
-[]{#us_1}
-
-## 1. Export/ import controls
+## 1. Export / Import Controls
 
 ### Import
+
 There are no import restrictions on cryptography.
 
 ### Export
-The US has signed the [Wassenaar](#Wassenaar) Arrangement, but does not
-implement the (pre-December 1998) General Software Note and generally
-maintains stricter controls.
 
-[**Export Administration Regulations (EAR)**\
+The US has signed the Wassenaar Arrangement, but does not implement the (pre-December 1998) General Software Note and generally maintains stricter controls.
+
+#### Export Administration Regulations (EAR)
+
 Cryptography export used to be controlled by the International Traffic
 in Arms Regulation (]{#ear}[ITAR](#itar)). At the end of 1996,
 cryptography export was transferred to the [Export Administration
@@ -29,14 +28,7 @@ Regulations](http://www.access.gpo.gov/bis/ear/ear_data.html) (EAR) of
 the Department of Commerce, 15 C.F.R. Parts 730-774 (see in particular
 sections 740.13, 740.17 and 742.15). The export policy was relaxed to
 favor export of data-recovery cryptography. This initiative was
-announced in a [statement by the Vice
-President](http://www.epic.org/crypto/key_escrow/clipper4_statement.html)
-of 1 October 1996, and further elaborated in a November 15, 1996
-executive order and memorandum, and in the Commerce Department draft EAR
-of December 30, 1996. The Department of Justice is now included in
-crypto export decisions. (Incidentally, the Commerce Department has
-\"borrowed\" three export control and crypto specialists from the FBI
-and NSA to help process license applications.)
+announced in a [statement by the Vice President](http://www.epic.org/crypto/key_escrow/clipper4_statement.html) of 1 October 1996, and further elaborated in a November 15, 1996 executive order and memorandum, and in the Commerce Department draft EAR of December 30, 1996. The Department of Justice is now included in crypto export decisions. (Incidentally, the Commerce Department has \"borrowed\" three export control and crypto specialists from the FBI and NSA to help process license applications.)
 
 Making available cryptography on the Internet or a BBS is considered
 export, unless appropriate measures are taken to prevent foreigners from
@@ -65,7 +57,7 @@ items\" (EI).
 5.  Encryption *\"technology\"* may be licensed for export on a
     case-by-case basis.
 
-[In August 1997]{#draft-ei}, a 25 July interagency [draft Encryption
+In August 1997, a 25 July interagency [draft Encryption
 Items Rule](http://jya.com/bxa-ei-rule.htm) modifying the EAR was
 published on the Internet, although the Department of Commerce declined
 to check its authenticity. It would implement the government\'s key
@@ -80,7 +72,7 @@ server operators that allow people to download encryption software to
 seek an advisory opinion from the Bureau of Export Affairs. See also an
 [article](http://jya.com/bxa-nyt.htm) by Peter Wayner on the draft.
 
-The [Bureau of Export]{#bxa-comments} Administration (BXA) (now: Bureau
+The Bureau of Export Administration (BXA) (now: Bureau
 of Industry and Security, BIS) has reviewed the export controls to
 determine whether they should be modified, rescinded or extended. On 8
 October 1997, it released a [statement](http://jya.com/bxa100897.txt)
@@ -88,7 +80,7 @@ October 1997, it released a [statement](http://jya.com/bxa100897.txt)
 have affected exporters and the general public.\" On 15 January 1998, it
 published an [interim rule](http://bxa.fedworld.gov/bxainfo.html#wass)
 revising the Commerce Control List, necessary to implement the
-(pre-December 1998) [Wassenaar Arrangement](#co). The interim rule also
+(pre-December 1998) Wassenaar Arrangement. The interim rule also
 imposed new reporting requirements on persons that export certain items
 to non-Wassenaar countries.
 
@@ -143,7 +135,7 @@ rule](http://jya.com/bxa123198.txt). This entailed the following.
 -   For exporting **key-recovery** products, the review of foreign
     key-recovery agents is eliminated.
 
-[After the President\'s Export Council Subcommittee]{#us_exp9909} on
+After the President's Export Council Subcommittee on
 Encryption advised in \"[Liberalization
 2000](http://cryptome.org/LIB42.htm)\" to ease the export controls, the
 goverment
@@ -188,9 +180,9 @@ updated policy are the following.
 -   Post-export reporting is required for exporting certain products
     above 64 bits to non-US entities.
 
-[Since 19 October 2000, a further liberalization of export controls is
+Since 19 October 2000, a further liberalization of export controls is
 effective, triggered by changes in the EU export regulations (see the
-Federal Register Vol. 65, No. 203, pp. 62600-10]{#us_exp0007}). The
+Federal Register Vol. 65, No. 203, pp. 62600-10). The
 liberalization was announced on 17 July 2000. A license exception is
 introduced for export of any crypto product to *any* end user (so, the
 distinction between government and non-government end users is dropped)
@@ -200,7 +192,7 @@ products immediately after filing a commodity classification request,
 without waiting for the technical-review results or the previously used
 30-day delay period.
 
-[On 6 June 2002]{#us_exp_0206}, a further liberalization was published
+On 6 June 2002, a further liberalization was published
 ([Federal
 Register](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=2002_register&docid=fr06jn02-6.pdf)
 Vol .67, No. 109, p. 38855). Mass-market crypto with key length
@@ -220,7 +212,7 @@ See the [fact
 sheet](http://www.bis.doc.gov/Encryption/EncFactSheet6_17_02.html) of
 the rule at BIS.
 
-[On 9 December 2004]{#us_exp_0412}, BIS published a further
+On 9 December 2004, BIS published a further
 \'streamlining\' of export procedures. A uniform 30-day review period
 was now implemented for most encryption items that need review.
 Moreover, the \'license-free zone\' to which mass-market crypto can be
@@ -238,8 +230,6 @@ See the [fact
 sheet](http://www.bis.doc.gov/Encryption/EncFactSheet12_02_04.htm) of
 the 9 December 2004 rule at BIS.
 
-[]{#us_exp_1101}
-
 On 7 January 2011, a minor amendment was made to the EAR ([Federal
 Register](http://www.gpo.gov/fdsys/pkg/FR-2011-01-07/pdf/2010-32803.pdf)
 Vol. 76, No. 5, p. 1059). Publicly available mass-market encryption
@@ -249,7 +239,6 @@ source code falls under License Exception TSU (i.e., when the source
 code is publicly available), are no longer subject to the EAR. The
 amendment includes some minor specific revisions.
 
-[Terrorist countries]{#us_terror}\
 The \"terrorist countries\" are: Cuba, Iran, Iraq, Libya, North Korea,
 Sudan, and Syria.
 
@@ -259,6 +248,7 @@ also the encryption excerpts of [BXA\'s 1997 Annual
 Report](http://jya.com/bxa97-encry.htm).
 
 ### Personal-use exemption
+
 In February 1996, the ITAR rules were amended as regards personal use of
 cryptography. Temporary export of products for personal use was exempted
 from the need of a license, provided the exporter take normal
@@ -277,6 +267,7 @@ announced in February 1997 it would revise the new regulations to, among
 others, clarify the personal use exemption for laptop computers.
 
 ### Export Administration Act
+
 The Export Administration Act expired in August 1994, but it was
 extended by Executive Order 12924 by the president with the authority
 under the International Emergency Economic Powers Act ([50 USC
@@ -294,7 +285,7 @@ policy through export regulation, and that the subsequent orders to
 extend the EAA can hardly be justified with a reference to a state of
 emergency this long.
 
-[**Export case law**]{#us_exp_cases}
+#### Export case law
 
 -   In August 2001, two men were arrested and accused of attempting to
     illegally export encryption devices to China ([news
@@ -304,13 +295,16 @@ emergency this long.
     South Korea ([news
     report](http://www.linuxsecurity.com/articles/government_article-4509.html)).
 
-[**Export Council Subcommittee**]{#subcom}In April 1997, the
+#### Export Council Subcommittee
+
+In April 1997, the
 President\'s Export Council Subcommittee on Encryption was established
 to advise the Secretary for Export Administration on the implementation
 of crypto export policy; it consists of approximately 25 members from
 the exporting community and government agencies.
 
 ### ITAR
+
 The [International Traffic in Arms
 Regulation](http://www.epic.org/privacy/crypto/export_controls/itar.txt)
 (ITAR) restricted export of \"dual-use\" cryptography (that is,
@@ -333,14 +327,14 @@ key-escrow. Criteria for exportable cryptography were discussed at two
 meetings in September and December 1995; criteria for the escrow agents
 were handed out at the December meeting.
 
-Back to the [Table of Contents](index.html#toc)
-
 ### Initiatives to relax export controls
+
 Several initiatives, as yet unsuccessful, have been taken, both in
 Congress and by the public, to try to mitigate the cryptography export
 restrictions.
 
 ### Karn, Bernstein, and Junger cases
+
 A federal district court in Washington, DC, on March 22, 1996 rejected
 the claims of *Phil Karn*, stating that the case presented a political
 question for the two elected branches to decide. It held that the export
@@ -380,6 +374,7 @@ denial and of appeal provisions. The ruling does not relate to object
 code. On December 30, 1996, Bernstein\'s lawyers asked the government to
 delay enforcement of the new [export rules](#ear) until they are
 reviewed for constitutionality.\
+
 On 25 August 1997, the federal district court affirmed its earlier
 decision, declaring that the Export Administration Regulations and all
 rules promulgated thereunder insofar as they apply to cryptography are
@@ -393,6 +388,7 @@ pending appeal, which was granted for the most part; Bernstein could,
 however, publish his program on the Internet after 8 September. See the
 [de cision of August 25,
 1997](http://www.eff.org/pub/Legal/Cases/Bernstein_v_DoS/Legal/970825_decision.html).\
+
 On [6 May
 1999](http://www.eff.org/pub/Legal/Cases/Bernstein_v_DoS/Legal/19990506_circuit_decision.html),
 the Court of Appeals for the Ninth Circuit held (two to one) that the
@@ -441,9 +437,8 @@ to the District Court to further consider the crypto export regulations
 See various [documents](http://jya.com/pdj.htm) in this case, and
 [another page](http://samsara.law.cwru.edu/comp_law/jvd/).
 
-Back to the [Table of Contents](index.html#toc)
-
 ### Congress Bills
+
 Three bills were proposed in 1996 to ease export controls. [Senator
 Leahy\'s bill]{#leahy}, proposed on 5 March 1996, the [Encrypted
 Communications Privacy
@@ -566,9 +561,8 @@ On 5 September 1997, the [California]{#California} legislature passed a
 resolution asking for a revision of federal crypto export controls,
 supporting the proposed SAFE Act (the original version, see above).
 
-Back to the [Table of Contents](index.html#toc)
-
 ### Reports
+
 The Department of Commerce recommended easing export controls after a
 joint
 [study](http://www.epic.org/privacy/crypto/export_controls/commerce_study_summary.txt)
@@ -595,16 +589,16 @@ of key-escrow systems, once the needed infrastructure and
 government-to-government agreements are in place.
 
 ### More information
+
 See for more information and links the [Cryptography Export Control
 Archives](ftp://ftp.cygnus.com/pub/export/export.html) and John Young\'s
 [Arms Control Essays](http://jya.com/acda.htm).
 
-Back to the [Table of Contents](index.html#toc)
-
 ## 2. Domestic laws and regulations
 
-[**DMCA**\
-The]{#us_wipo} [Digital Millennium Copyright
+### DMCA
+
+The [Digital Millennium Copyright
 Act](http://thomas.loc.gov/cgi-bin/bdquery/z?d105:h.r.02281:) (Public
 Law 105-304, H.R. 2281, also called WIPO Copyright Treaties
 Implementation Act) was approved on 12 October 1998 by the House and
@@ -623,7 +617,8 @@ exemptions (related to filtering and malfunctioning software).\
 Compare EFF\'s archive of [DMCA
 cases](http://www.eff.org/IP/DMCA/#dirs).
 
-[**Case law**]{#us_2_cases}\
+### Case Law
+
 In the case of [*United States* v
 *Scarfo*](http://lawlibrary.rutgers.edu/fed/html/scarfo2.html-1.html),
 the US District Court for the District of New Jersey held on 26 December
@@ -652,7 +647,8 @@ unknown to the government (since the agent had seen relevant files on
 the Z drive), nor would it authenticate the documents, since he had
 already admitted to owning the laptop and shown files on the Z drive to
 the agent. Therefore, the defendent must provide an unencrypted version
-of the Z drive.\
+of the Z drive.
+
 The District Court overturned the opinion by the Magistrate Judge in the
 lower court (2007 WL 4246473 (29 November 2007)), who had held that a
 password that protects encrypted files falls under the Fifth Amendment
@@ -719,12 +715,11 @@ conclusion\" doctrine does not apply. Since the decryption order only
 provided immunity for the act of decryption but not for resulting
 evidence, the Fifth Amendment was violated.
 
-[]{#us_3}
-
 ## 3. Developments in cryptography regulation
 
-[**Escrowed Encryption Standard (Clipper)**\
-In 1993,]{#ees} the Clinton Administration announced the Escrowed
+### Escrowed Encryption Standard (Clipper)
+
+In 1993, the Clinton Administration announced the Escrowed
 Encryption Initiative (EEI), usually referred to as the Clipper
 Initiative, after its first implementation in the Clipper chip. A
 classified, secret-key algorithm, SKIPJACK, has been implemented in an
@@ -756,6 +751,7 @@ the EES), would no longer implement the EES; instead, it would work to
 adopt key recovery as promoted by the US government (see below).
 
 ### Key Management Infrastructure
+
 In its May 1996 draft paper [\"Enabling Privacy, Commerce, Security and
 Public Safety in the
 GII\"](http://www.epic.org/crypto/key_escrow/white_paper.html)(referred
@@ -785,7 +781,8 @@ recommendation. The charter of the TACDFIPSFKMI was renewed in August
 released a report on proposed key-recovery standards, for which comments
 could be submitted until 4 November 1999 (website no longer available).
 
-### NRC report]{#us_4_nrc}
+### NRC report
+
 The June 1996 National Research Council study [Cryptography\'s role in
 Securing the Information
 Society](http://www.nap.edu/readingroom/books/crisis/), which was
@@ -797,6 +794,7 @@ regarding key escrow were resolved, adoption of escrowed encryption (or
 of any other standard) should be voluntary.
 
 ### Broad Encryption Policy
+
 The 1 October 1996 [statement by the Vice
 President](http://www.epic.org/crypto/key_escrow/clipper4_statement.html),
 covering export controls, also refers to domestic crypto use. The
@@ -812,6 +810,7 @@ Administration will also seek legislation to facilitate commercial
 key-escrow, including liability issues for releasing keys.
 
 ### Crypto Ambassador
+
 On November 15, 1996, the government appointed ambassador Aaron as
 \"special envoy for cryptography\". He will promote international
 cooperation and coordinate US contacts with foreign governments on
@@ -821,6 +820,7 @@ records of ambassador Aaron. EPIC acquired the travel records in January
 1998.
 
 ### Annual report on criminal crypto use
+
 A 2 October 1996 law (HR 3723) includes an amendment requiring the US
 Sentencing Commission to report annually on the use of computer
 encryption to conceal criminal activity. Likewise, by law S. 1769 signed
@@ -832,9 +832,8 @@ President\'s
 specifies that only general aggregate data on the total number of crypto
 encounters will be provided.
 
-[]{#krdraft}
-
 ### Draft Key Recovery Legislation
+
 At the end of March 1997, a [Draft Key Recovery
 Legislation](http://www.cdt.org/crypto/970312_admin.html) dating from 12
 March was published: the \"Electronic Data Security Act of 1997\". The
@@ -855,7 +854,9 @@ information to government agencies may not be disclosed. Those who
 intentionally undermine certain provision of the Act (such as issuing
 public key certificates to persons while knowing they do have not
 provided sufficient information to a KRA) are subject to civil
-penalties; the penalties are limited for registered CAs and KRAs. Such
+penalties; the penalties are limited for registered CAs and KRAs. 
+
+Such
 activities are also criminally punishable with up to five years\'
 imprisonment. Likewise, the use of encryption in furtherance of the
 commission of a criminal offense can be punished with six months\' to
@@ -871,7 +872,7 @@ furtherance of a crime), and that use of the key recovery infrastructure
 is voluntary. The government is no longer seeking a sponsor for the
 draft bill.
 
-The government\'s [Framework for Global Electronic
+The government's [Framework for Global Electronic
 Commerce](http://www.whitehouse.gov/WH/New/Commerce/) restates the
 (voluntary) key recovery approach. [In a 4 March 1998 letter to Senatory
 Daschle, Vice-President Gore reiterated the government\'s commitment to
@@ -881,6 +882,7 @@ government will pursue a dialogue between industry and law
 enforcement.]{#kerrey}
 
 ### Cyberspace Electronic Security Act of 1999
+
 On 16 September 1999, together with the announcement of [export
 relaxation](#us_exp9909), the goverment
 [proposed](http://www.pub.whitehouse.gov/uri-res/I2R?urn:pdi://oma.eop.gov.us/1999/9/16/16.text.1)
@@ -902,7 +904,8 @@ made to protect it through encryption\", effectively allowing the
 goverment to perform secret break-ins and alterations in computers. This
 was not reiterated in the final draft.
 
-[**Advanced Encryption Standard**\
+### Advanced Encryption Standard
+
 NIST]{#aes} has approved an [Advanced Encryption
 Standard](http://csrc.nist.gov/CryptoToolkit/aes/) (AES), FIPS 197, the
 successor of DES.\
@@ -920,7 +923,8 @@ comments, Rijndael was officially approved and announced in the [Federal
 Register]{href\"http:="" csrc.nist.gov="" cryptotoolkit="" aes=""
 frn-fips197.pdf\"=""}, becoming effective on 26 May 2002.
 
-### Domestic Security Enhancement Act 2003]{#us_patriot2} (Patriot II)
+### Domestic Security Enhancement Act 2003 (Patriot II)
+
 A draft Domestic Security Enhancement Act 2003 (Patriot II) of 9 January
 2003 leaked out in February 2003 (see the
 [text](http://www.dailyrotten.com/source-docs/patriot2draft.html), also
@@ -932,7 +936,8 @@ suggests that these \"additional penalties are warranted to deter the
 use of encryption technology to conceal criminal activity\". The bill
 has not been submitted to Congress.
 
-### Congress bills
+### Congress Bills
+
 On 16 June 1997, Senators Kerrey, McCain, and Hollings introduced a bill
 largely similar to the government draft key-recovery legislation, the
 [Secure Public Networks
@@ -998,7 +1003,7 @@ Rules Committee, Solomon, had declared to only move the Act to the floor
 if it contained a mandatory key escrow provision. The SAFE act was
 reintroduced in 1999, see below.
 
-[The Leahy bill]{#leahburn} ([see above](#leahy)) affirms the right of
+The Leahy bill affirms the right of
 citizens to use encryption without restrictions in the US (except in
 furtherance to a felony to impede law enforcement). The Burns bill ([see
 above](#burns)) also affirms the right to freely use encryption;
@@ -1009,7 +1014,7 @@ and key escrow. [The E-PRIVACY Act (]{#markey}[see
 above](#us_E-PRIVACY)) would similarly prohibit the government from
 mandating key escrow or key recovery.
 
-The Leahy bill ([see above](#leahy)) would penalize the use of
+The Leahy bill would penalize the use of
 encryption in furtherance to a felony, if the encryption is intended to
 obstruct investigation. It creates a framework for key escrow agents,
 including strict requirements for law enforcement access; anyone is free
@@ -1060,5 +1065,3 @@ court warrant for accessing encrypted data or communications.
 See the [EFF Privacy, Security, Crypto, Surveillance
 Archive](http://www.eff.org/pub/Crypto/) and the [EPIC Key Escrow
 Page](http://www.epic.org/crypto/key_escrow/).
-
-Back to the [Table of Contents](index.md)
