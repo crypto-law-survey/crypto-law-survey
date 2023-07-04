@@ -17,7 +17,7 @@ There are no import restrictions on cryptography.
 
 ### Export
 
-The US has signed the Wassenaar Arrangement, but does not implement the (pre-December 1998) General Software Note and generally maintains stricter controls.
+The US has signed the [Wassenaar](wassenar.md) Arrangement, but does not implement the (pre-December 1998) General Software Note and generally maintains stricter controls.
 
 #### Export Administration Regulations (EAR)
 
