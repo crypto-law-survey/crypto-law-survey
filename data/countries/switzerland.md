@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Switzerland] \[[Sources](cls-srce.htm) 1, 3, 5, 9\][](http://www.admin.ch/bawi/f/kontroll/gkge.pdf)
+# Switzerland \[[Sources](cls-srce.htm) 1, 3, 5, 9\][](http://www.admin.ch/bawi/f/kontroll/gkge.pdf)
 
 ## 1. Export/ import controls  
 Crypto import is not controlled. Import certificates will be given if
