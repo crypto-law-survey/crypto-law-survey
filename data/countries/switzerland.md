@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Switzerland]{#su} \[[Sources](cls-srce.htm) 1, 3, 5, 9\][](http://www.admin.ch/bawi/f/kontroll/gkge.pdf)
+# [Switzerland] \[[Sources](cls-srce.htm) 1, 3, 5, 9\][](http://www.admin.ch/bawi/f/kontroll/gkge.pdf)
 
 ## 1. Export/ import controls  
 Crypto import is not controlled. Import certificates will be given if
@@ -48,7 +48,8 @@ obtain specific permission. This is presumably the same law as the paper
 to the [OECD](#oecd) December 1995 meeting refers to: article 14 of the
 Telecommunications Concession Regulation (VFKV) required a license for
 radio traffic encryption; the license was given if the concessionaire
-can prove he needs confidentiality of his messages.\
+can prove he needs confidentiality of his messages.
+
 The VFKV regulation were replaced on 1 January 1998 by the Frequency
 Management and Radio License
 [Decree](http://www.admin.ch/ch/d/sr/7/784.102.1.de.pdf) (Verordnung
