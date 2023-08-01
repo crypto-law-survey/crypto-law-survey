@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [India]{#in} \[[Sources](cls-srce.htm) 3, 5\]
+# [India]{#in} \[[Sources](../sources.md) 3, 5\]
 
 ## 1. Export/ import controls
 India requires an import license for encryptors. Import of crypto

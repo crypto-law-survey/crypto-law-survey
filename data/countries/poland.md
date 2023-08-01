@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Poland]{#po} \[[Source](cls-srce.htm) 5\]
+# [Poland]{#po} \[[Source](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 A license is required for exporting encryption software or hardware, in

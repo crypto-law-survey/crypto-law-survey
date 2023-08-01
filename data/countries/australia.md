@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Australia]{#aus} \[[Sources](cls-srce.htm) 1, 3, 5, 8\]
+# [Australia]{#aus} \[[Sources](../sources.md) 1, 3, 5, 8\]
 
 ## 1. Export/ import controls  
 Export is regulated through the [Defence and Strategic Goods

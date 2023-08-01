@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Tonga]{#to} \[[Source](cls-srce.htm) 5\]
+# [Tonga]{#to} \[[Source](../sources.md) 5\]
 
 ## 2. Domestic laws and regulations  
 The [Tonga Computer Crimes

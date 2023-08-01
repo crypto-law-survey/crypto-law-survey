@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Estonia]{#es} \[[Source](cls-srce.htm) 5\]
+# [Estonia]{#es} \[[Source](../sources.md) 5\]
 
 ## 1. Export/ import controls
 There are no import controls, but export is controlled along the

@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Romania]{#ro} \[[Sources](cls-srce.htm) 5\]
+# [Romania]{#ro} \[[Sources](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 There are no import controls.

@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Syria]{#sy} \[[Source](cls-srce.htm) 5\]
+# [Syria]{#sy} \[[Source](../sources.md) 5\]
 
 ## 2. Domestic laws and regulations
 According to the 2005 HRW report [False

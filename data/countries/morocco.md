@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Morocco]{#mor} \[[Source](cls-srce.htm) 5\]
+# [Morocco]{#mor} \[[Source](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 Import and export of cryptography requires a license from the

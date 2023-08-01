@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Moldova]{#mol} \[[Source](cls-srce.htm) 5\]
+# [Moldova]{#mol} \[[Source](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 For import and export of cryptography, a license from the Ministry of

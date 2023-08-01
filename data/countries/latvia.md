@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Latvia]{#la} \[[Sources](cls-srce.htm) 4, 5\]
+# [Latvia]{#la} \[[Sources](../sources.md) 4, 5\]
 
 ## 1. Export/ import controls  
 Export controls in line with the [EU dual-use regulation](#eu_exp).

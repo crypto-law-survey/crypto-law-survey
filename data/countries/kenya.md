@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Kenya]{#ken} \[[Source](cls-srce.htm) 5\]
+# [Kenya]{#ken} \[[Source](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 There are no import controls. \[Source: [2002 ITU

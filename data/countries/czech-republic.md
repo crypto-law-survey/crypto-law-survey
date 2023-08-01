@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Czech republic]{#cr} \[[Sources](cls-srce.htm) 5\]
+# [Czech republic]{#cr} \[[Sources](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 Import is allowed \"if it is declared by the importer not to be used for

@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Business Government Forum]{#busigov} \[[Source](cls-srce.htm) 5\]
+# [Business Government Forum]{#busigov} \[[Source](../sources.md) 5\]
 
 ## 1. Export/ import controls / 3. Developments in cryptography regulation  
 On 19-20 December 1995, a meeting was held at the International Chamber

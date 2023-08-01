@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Canada]{#ca} \[[Sources](cls-srce.htm) 1, 3, 4, 5, 8\]
+# [Canada]{#ca} \[[Sources](../sources.md) 1, 3, 4, 5, 8\]
 
 ## 1. Export/ import controls  
 Canada follows (pre-December 1998) [Wassenaar](#co) regulations. The

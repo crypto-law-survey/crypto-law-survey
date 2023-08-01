@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Luxembourg]{#lu} \[[Source](cls-srce.htm) 5\]
+# [Luxembourg]{#lu} \[[Source](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 Luxembourg has signed the [Wassenaar](#Wassenaar) Arrangement, so export

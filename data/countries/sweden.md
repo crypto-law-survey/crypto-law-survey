@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Sweden]{#sv} \[[Sources](cls-srce.htm) 3, 4, 5\]
+# [Sweden]{#sv} \[[Sources](../sources.md) 3, 4, 5\]
 
 ## 1. Export/ import controls  
 The import of cryptography is not restricted, nor will it in the future,

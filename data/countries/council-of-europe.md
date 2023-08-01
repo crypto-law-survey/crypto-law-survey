@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Council of Europe]{#coe} \[[Source](cls-srce.htm) 5\]
+# [Council of Europe]{#coe} \[[Source](../sources.md) 5\]
 
 ## 2. Domestic laws and regulations  
 On 23 November 2001, the Council of Europe adopted the [Convention on

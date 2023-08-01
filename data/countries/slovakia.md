@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Slovakia]{#sla} \[[Source](cls-srce.htm) 5\]
+# [Slovakia]{#sla} \[[Source](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 Slovakia has signed the [Wassenaar](#Wassenaar) Arrangement, so export

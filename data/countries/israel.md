@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Israel]{#is} \[[Sources](cls-srce.htm) 3, 5\]
+# [Israel]{#is} \[[Sources](../sources.md) 3, 5\]
 
 ## 1. Export/ import controls  
 Import and export of cryptography require a license from the

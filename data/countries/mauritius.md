@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Mauritius]{#mau} \[[Sources](cls-srce.htm) 5\]
+# [Mauritius]{#mau} \[[Sources](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 There are no export or import controls. \[Source: [2002 ITU

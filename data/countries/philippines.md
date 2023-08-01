@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Philippines]{#phi} \[[Source](cls-srce.htm) 5\]
+# [Philippines]{#phi} \[[Source](../sources.md) 5\]
 
 ## 2. Domestic laws and regulations  
 E-mail encryption is not restricted.

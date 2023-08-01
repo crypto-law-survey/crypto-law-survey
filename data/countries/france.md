@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [France]{#fr} \[[Sources](cls-srce.htm) 1, 3, 4, 5, 6, 7\]
+# [France]{#fr} \[[Sources](../sources.md) 1, 3, 4, 5, 6, 7\]
 
 ## 1. Export/ import controls  
 France has signed the [Wassenaar](#Wassenaar) Arrangement for **export**

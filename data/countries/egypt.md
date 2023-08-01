@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Egypt]{#eg} \[[Source](cls-srce.htm) 5\]
+# [Egypt]{#eg} \[[Source](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 The import of tangible cryptography should take place through an

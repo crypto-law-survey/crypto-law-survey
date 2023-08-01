@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Puerto]{#pu} Rico \[[Source](cls-srce.htm) 5\]
+# [Puerto]{#pu} Rico \[[Source](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 There are no import controls.(See further [US law](#us_1).)

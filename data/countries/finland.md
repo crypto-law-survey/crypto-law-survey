@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Finland]{#fi} \[[Sources](cls-srce.htm) 4, 5, 8\]
+# [Finland]{#fi} \[[Sources](../sources.md) 4, 5, 8\]
 
 ## 1. Export/ import controls  
 Import of cryptography is not regulated.
