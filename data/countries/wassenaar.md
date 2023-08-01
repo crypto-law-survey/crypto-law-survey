@@ -1,7 +1,7 @@
-**Version 27.0, February 2013**
+# Version 27.0, February 2013
 
-**© Bert-Jaap Koops**
-**Portions © Analog Devices, Inc. **  
+## © Bert-Jaap Koops 
+## Portions © Analog Devices, Inc.
 
 Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
@@ -39,15 +39,15 @@ COCOM was dissolved in March 1994. Pending the signing of a new treaty,
 most members of COCOM agreed in principle to maintain the status quo,
 and cryptography remained on export control lists.
 
-#### [Wassenaar]{#Wassenaar} Arrangement
+#### Wassenaar Arrangement
 
 The Wassenaar Arrangement controls the export of weapons and of dual-use
 goods, that is, goods that can be used both for a military and for a
 civil purpose; cryptography is such a dual-use good.
 
 In 1995, 28 countries decided to establish a follow-up to COCOM, the
-*Wassenaar Arrangement on Export Controls for Conventional Arms and
-Dual-Use Goods and Technologies*. The negotiations on the Arrangement
+'Wassenaar Arrangement on Export Controls for Conventional Arms and
+Dual-Use Goods and Technologies.' The negotiations on the Arrangement
 were finished in July 1996, and the agreement was signed by 31 countries
 (Argentina, Australia, Austria, Belgium, Canada, the Czech Republic,
 Denmark, Finland, France, Germany, Greece, Hungary, Ireland, Italy,
@@ -66,7 +66,7 @@ crypto software. Export via the Internet did not seem to be covered by
 the regulations.
 
 There is a personal-use exemption, allowing export of products
-\"accompanying their user for the user\'s personal use\" (e.g., on a
+"accompanying their user for the user's personal use" (e.g., on a
 laptop).
 
 In September 1998, Wassenaar negotiations in Vienna did not lead to
@@ -76,18 +76,18 @@ crypto.
 
 The Wassenaar Arrangement was revised in December 1998. Negotiations
 were held on 2 and 3 December 1998 in Vienna, which resulted in
-restrictions on the General Software Note and in some relexations:
+restrictions on the General Software Note and in some relaxations:
 
--   free for export are: all symmetric crypto products of up to 56 bits,
+- free for export are: all symmetric crypto products of up to 56 bits,
     all asymmetric crypto products of up to 512 bits, and all
     subgroup-based crypto products (including elliptic curve) of up to
     112 bits;
--   mass-market symmetric crypto software and hardware of up to 64 bits
+- mass-market symmetric crypto software and hardware of up to 64 bits
     are free for export (the 64-bit limit was deleted on 1 December
     2000, see below);
--   the export of products that use encryption to protect intellectual
+- the export of products that use encryption to protect intellectual
     property (such as DVDs) is relaxed;
--   export of all other crypto still requires a license.
+- export of all other crypto still requires a license.
 
 There was no change in the provisions on public-domain crypto, so that
 all public-domain crypto software is still free for export. Nothing was
@@ -101,7 +101,7 @@ limit) was deleted in its reference to category 5A2, as well as the
 related Validity Note, see the
 [summary](http://www.wassenaar.org/list/Summary.html)). The [public
 statement](http://www.wassenaar.org/docs/press_5.html) of the meeting
-mentioned that \"Participating States recognised that it is important to
+mentioned that "Participating States recognized that it is important to
 continue deepening Wassenaar Arrangement understanding of how and how
 much to control\" intangible transfers.
 
@@ -117,7 +117,7 @@ List](http://www.wassenaar.org/list/Table%20of%20Contents%20-%2099web.html)
 Arrangement](http://www.wassenaar.org) page (includes contact
 information for various national export control authorities), a
 [Wassenaar FAQ](http://www.bis.doc.gov/Wassenaar/WASSFAQs.htm) (by US
-BIS), Greg Broiles\' [page on the Wassenaar
+BIS), Greg Broiles' [page on the Wassenaar
 Arrangement](http://www.parrhesia.com/wassenaar/), which includes links
 to [John Young\'s](http://www.jya.com/wassenr3.htm) pages on the
 Wassenaar Arrangement and [comments](http://jya.com/wass-talk.htm) on
