@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Wassenaar Arrangement]{#co} / COCOM \[[Sources](../sources.md) 1, 5\]
+# Wassenaar Arrangement
 
 ## 1. Export/ import controls
 
