@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Tunisia]{#tun} \[[Sources](cls-srce.htm) 5\]
+# [Tunisia]{#tun} \[[Sources](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 Import of cryptography is restricted. It seems a government agency

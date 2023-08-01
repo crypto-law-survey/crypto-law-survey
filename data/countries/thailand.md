@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Thailand]{#th} \[[Source](cls-srce.htm) 5\]
+# [Thailand]{#th} \[[Source](../sources.md) 5\]
 
 ## 2. Domestic laws and regulations  
 The Thailand Computer Crime Act, B.E. 2550 of 2007 (see [unofficial

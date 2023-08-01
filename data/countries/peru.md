@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Peru]{#pe} \[[Source](cls-srce.htm) 5\]
+# [Peru]{#pe} \[[Source](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 There are no import or export controls on cryptography software.

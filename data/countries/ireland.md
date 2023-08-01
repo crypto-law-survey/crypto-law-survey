@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Ireland]{#ir} \[[Sources](cls-srce.htm) 1, 9\]
+# [Ireland]{#ir} \[[Sources](../sources.md) 1, 9\]
 
 ## 1. Export/ import controls  
 Import is not controlled.

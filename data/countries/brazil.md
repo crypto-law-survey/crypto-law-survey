@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Brazil]{#br} \[[Sources](cls-srce.htm) 3, 5\]
+# [Brazil]{#br} \[[Sources](../sources.md) 3, 5\]
 
 ## 1. Export/ import controls  
 There are no export or import controls, but the government is working on

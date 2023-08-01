@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Turkey]{#tu} \[[Sources](cls-srce.htm) 1, 5\]
+# [Turkey]{#tu} \[[Sources](../sources.md) 1, 5\]
 
 ## 1. Export/ import controls  
 [Wassenaar](#co) controls (pre-December 1998), including the General

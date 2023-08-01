@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Iceland]{#ic} \[[Source](cls-srce.htm) 1\]
+# [Iceland]{#ic} \[[Source](../sources.md) 1\]
 
 ## 2. Domestic laws and regulations  
 None.

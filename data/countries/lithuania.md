@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Lithuania]{#li} \[[Source](cls-srce.htm) 5\]
+# [Lithuania]{#li} \[[Source](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 Lithuania has signed the [Wassenaar](#Wassenaar) Arrangement, and export

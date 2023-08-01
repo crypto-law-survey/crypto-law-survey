@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [United Kingdom]{#uk} \[[Sources](cls-srce.htm) 1, 3, 4, 5, 8\]
+# [United Kingdom]{#uk} \[[Sources](../sources.md) 1, 3, 4, 5, 8\]
 
 ## 1. Export/ import controls  
 Export is controlled in accordance with the EU{#uk_Export} [dual-use

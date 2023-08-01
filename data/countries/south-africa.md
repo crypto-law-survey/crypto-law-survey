@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [South Africa]{#sa} \[[Sources](cls-srce.htm) 1, 3, 5\]
+# [South Africa]{#sa} \[[Sources](../sources.md) 1, 3, 5\]
 
 ## 1. Export/ import controls  
 There are import and export controls for military cryptography, as

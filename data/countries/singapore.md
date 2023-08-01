@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Singapore]{#si} \[[Source](cls-srce.htm) 5, 10\]
+# [Singapore]{#si} \[[Source](../sources.md) 5, 10\]
 
 ## 1. Export/ import controls  
 Export is covered by [Wassenaar](#Wassenaar) controls. See the

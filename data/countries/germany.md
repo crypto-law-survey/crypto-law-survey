@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Germany]{#ge} \[[Sources](cls-srce.htm) 1, 3, 4, 5, 7\]
+# [Germany]{#ge} \[[Sources](../sources.md) 1, 3, 4, 5, 7\]
 
 ## 1. Export/ import controls  
 Export is regulated according to the [EU regulation](#eu_exp) and the

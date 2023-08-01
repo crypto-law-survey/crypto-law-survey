@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Trinidad & Tobago]{#tt} \[[Source](cls-srce.htm) 5\]
+# [Trinidad & Tobago]{#tt} \[[Source](../sources.md) 5\]
 
 ## 2. Domestic laws and regulations   
 The [Computer Misuse Act,

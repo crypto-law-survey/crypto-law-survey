@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Ukraine]{#ukr} \[[Source](cls-srce.htm) 5\]
+# [Ukraine]{#ukr} \[[Source](../sources.md) 5\]
 
 ## 1. Export/ import  
 Ukraine has signed the [Wassenaar](#Wassenaar) Arrangement. Export and

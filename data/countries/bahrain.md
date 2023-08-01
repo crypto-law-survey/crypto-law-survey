@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Bahrain]{#bh} \[[Source](cls-srce.htm) 5\]
+# [Bahrain]{#bh} \[[Source](../sources.md) 5\]
 
 ## 2. Domestic laws and regulations  
 Cryptography is not allowed in telecommunications networks using the

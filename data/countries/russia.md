@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Russia]{#ru} \[[Sources](cls-srce.htm) 3, 5, 7\]
+# [Russia]{#ru} \[[Sources](../sources.md) 3, 5, 7\]
 
 ## 1. Export/ import controls  
 A license is required for the importation of encryption facilities

@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Denmark]{#de} \[[Sources](cls-srce.htm) 1, 4, 5, 9\]
+# [Denmark]{#de} \[[Sources](../sources.md) 1, 4, 5, 9\]
 
 ## 1. Export/ import controls  
 There are export controls according to the (pre-December 1998)

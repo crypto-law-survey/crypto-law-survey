@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Hong Kong]{#hk} Special Administrative Region \[[Source](cls-srce.htm) 5\]
+# [Hong Kong]{#hk} Special Administrative Region \[[Source](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 Import, export, and transit of cryptography are regulated by the Import

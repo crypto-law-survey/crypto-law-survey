@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Kazakhstan]{#ka} \[[Source](cls-srce.htm) 5\]
+# [Kazakhstan]{#ka} \[[Source](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 The import and export is governed by Resolution No. 1037 Article 266 (30

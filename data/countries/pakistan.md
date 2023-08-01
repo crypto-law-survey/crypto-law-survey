@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Pakistan]{#pa} \[[Source](cls-srce.htm) 5\]
+# [Pakistan]{#pa} \[[Source](../sources.md) 5\]
 
 ## 2. Domestic laws and regulations  
 The Pakistan Telecommunication (Reorganization) Act empowers the

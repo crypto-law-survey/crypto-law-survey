@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Burma (Myanmar)]{#bi} \[[Sources](cls-srce.htm) 5\]
+# [Burma (Myanmar)]{#bi} \[[Sources](../sources.md) 5\]
 
 ## 1. Export/ import controls  
 Export and import of cryptography may be restricted on the basis of the

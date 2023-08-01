@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [Norway]{#no} \[[Sources](cls-srce.htm) 1, 5, 6, 8\]
+# [Norway]{#no} \[[Sources](../sources.md) 1, 5, 6, 8\]
 
 ## 1. Export/ import controls  
 Norway has signed the [Wassenaar](#Wassenaar) Arrangement, including the
