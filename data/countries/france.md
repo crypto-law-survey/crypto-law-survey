@@ -394,8 +394,7 @@ above). The proposed domestic rules were as follows. 
         can ask the national-security services to crack encrypted data
         (proposed art. 230-1 para. 2 - 230-5 FCCP). (#)
 
-See the [government SSI](http://www.ssi.gouv.fr) site (under
-\'Regulation\' \> \'Cryptology\') on the applicable laws and decrees.
+See the [government SSI](https://www.ssi.gouv.fr/entreprise/reglementation/controle-reglementaire-sur-la-cryptographie/) site on the applicable laws and decrees.
 For former regulattions, see the (**now outdated**) [summary of the
 pre-1999 French encryption
 regulation](http://www.opengroup.org/security/meetings/apr98/french-regulation.pdf)
