@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [People\'s Republic of China]{#prc} \[[Sources](../sources.md) 3, 5\]
+# People's Republic of China [[Sources](../sources.md) 3, 5\]
 
 See also [Hong Kong Special Administrative Region](#hk).
 
