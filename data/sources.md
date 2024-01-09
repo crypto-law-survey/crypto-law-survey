@@ -12,7 +12,7 @@
  
 6. Ross Anderson, Crypto Policy by Country, Appendix to [Crypto in Europe --- Markets, Law and Policy](ftp://ftp.cl.cam.ac.uk/users/rja14/queensland.ps.Z), which appeared at the Conference on Cryptographic Policy and Algorithms, Queensland, July 1995.
 7. Christopher Kuner, Rechtliche Aspekte der Datenverschluesselung im Internet, in NJW-CoR6/95
-8. Stewart A. Baker, [Summary Report on the OECD Ad-hoc Meeting of Experts on Cryptography](http://www.steptoe.com/276908.htm).
+8. Stewart A. Baker, Summary Report on the OECD Ad-hoc Meeting of Experts on Cryptography. Previously available at http://www.steptoe.com/276908.htm, but no longer available online (as confirmed by author Stewart A. Baker).
 9. Anne-Marie Kemna, Astrid Tuinder, Regulering van encryptie, ITeR 3, Samsom, Alphen aan den Rijn, 1996.
 10. Computer and Telecommunications Law Review, Special Issue: Encryption, June 1997, pp. 105-127.
 11. Malte Diehl, 'Kryptographiegesetzgebung im Wandel. Von begrenzten Schlüssellängen zur Schlüsselherausgabe', Datenschutz und Datensicherheit 2008 (4), p. 243-247.
