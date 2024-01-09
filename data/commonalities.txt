@@ -1,0 +1,32 @@
+(Got as far as israel, in my reviews)
+
+signed wassenar (Does it make sense to say "follows this treaty, but has not signed it"?
+Or "Modelled after, but not signed"?) (Yes - Hong Kong did that, but Hong Kong now part of China)
+	- Pre-1998.
+	- Post-1998.
+	- General Software Note
+signed COE Convention on Cybercrime
+ratified COE Convention on Cybercrime
+member of (EU, COE, OECD, BGF)
+
+No Import / Export controls
+No Import Controls
+No Export Controls
+No Domestic Controls
+Rules for authentication vs rules for confidentiality/secrecy.
+
+Key escrow required.
+Key escrow not required.
+
+Public Domain software exempted
+	- Third-parties / telecommunication suppliers
+	- individuals vs self-incrimination?
+Law enforcement can require decryption keys or plaintext via court order/warrant.
+License required to import
+License required to export
+Domestic encryption use prohibited
+
+URLs / references to laws / treaties
+URLs / references to other articles / sources
+
+Historical Information vs Current Information
