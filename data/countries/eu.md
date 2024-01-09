@@ -7,7 +7,7 @@ Licensed under Creative Commons Attribution Share Alike 4.0 International.
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-# [European Union]{#eu} \[[Sources](../sources.md) 5, 7, 8\]
+# European Union [Sources](../sources.md) 5, 7, 8\]
 
 ## 1. Export/ import controls  
 Export of dual-use goods, including cryptography, is regulated by the
